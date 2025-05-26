@@ -87,3 +87,11 @@ All other materials (which are the evaluation scripts and system prompts) are li
 - The permission requests are **not actual user queries**, but generated prompts based on modified permission descriptions.
 - The data set as well as the code are provided for academic and research purposes only.
 - The Microsoft data was retrieved on **April 17, 2025**. We will **not track or incorporate future updates** made to the original data sources.
+
+## Contact
+
+If you have any questions about the publication or the shown material, please contact max.niedermeier@tum.de
+
+## Citation 
+
+Paper is not yet published.
