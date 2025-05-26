@@ -21,7 +21,7 @@ Optionally, the LLM also received:
 
 ### System Prompts (see /src/system_prompts)
 
-Each file contains the system prompt which we used for two different experiments. The filename suffix indicates which experiments the prompt was used in (e.g., *SystemPrompt_E1E5.txt* was used in Experiments E1 and E5).
+Each file contains the system prompt which we used for two different experiments. The filename suffix indicates which experiments the prompt was used in (e.g., *SystemPrompt_E1E2.txt* was used in Experiments E1 and E2).
 
 ### User Prompts (see /src/user_prompts)
 
