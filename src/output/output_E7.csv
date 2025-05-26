@@ -1,0 +1,501 @@
+request;permission;role
+I need to update basic properties on device registration policies.;NONE;NONE
+I need to update basic properties on device registration policies.;NONE;NONE
+I need to update basic properties on device registration policies.;NONE;NONE
+I need to update basic properties on device registration policies.;NONE;NONE
+I need to update basic properties on device registration policies.;NONE;NONE
+I need to manage all properties of Conditional Access policies.;NONE;NONE
+I need to manage all properties of Conditional Access policies.;NONE;NONE
+I need to manage all properties of Conditional Access policies.;NONE;NONE
+I need to manage all properties of Conditional Access policies.;NONE;NONE
+I need to manage all properties of Conditional Access policies.;NONE;NONE
+I need to read standard properties of federation configuration for domains.;microsoft.directory/domains/federationConfiguration/standard/read;NONE
+I need to read standard properties of federation configuration for domains.;microsoft.directory/domains/federationConfiguration/standard/read;NONE
+I need to read standard properties of federation configuration for domains.;microsoft.directory/domains/federationConfiguration/standard/read;NONE
+I need to read standard properties of federation configuration for domains.;microsoft.directory/domains/federationConfiguration/standard/read;NONE
+I need to read standard properties of federation configuration for domains.;microsoft.directory/domains/federationConfiguration/standard/read;NONE
+I need to deploy and manage programs in Insights app.;microsoft.insights/programs/allProperties/update;Insights Business Leader
+I need to deploy and manage programs in Insights app.;microsoft.insights/programs/allProperties/update;Insights Business Leader
+I need to deploy and manage programs in Insights app.;microsoft.insights/programs/allProperties/update;Insights Business Leader
+I need to deploy and manage programs in Insights app.;microsoft.insights/programs/allProperties/update;Insights Business Leader
+I need to deploy and manage programs in Insights app.;microsoft.insights/programs/allProperties/update;Insights Business Leader
+I need to manage admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Global Administrator
+I need to manage admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Global Administrator
+I need to manage admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Global Administrator
+I need to manage admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Global Administrator
+I need to manage admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Global Administrator
+I need to read basic properties of a tenant participating in a multi-tenant organization.;microsoft.directory/multiTenantOrganization/tenants/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties of a tenant participating in a multi-tenant organization.;microsoft.directory/multiTenantOrganization/tenants/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties of a tenant participating in a multi-tenant organization.;microsoft.directory/multiTenantOrganization/tenants/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties of a tenant participating in a multi-tenant organization.;microsoft.directory/multiTenantOrganization/tenants/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties of a tenant participating in a multi-tenant organization.;microsoft.directory/multiTenantOrganization/tenants/standard/read;Multi-Tenant Organization Reader
+I need to read owners of policies.;microsoft.directory/policies/owners/read;Policy Reader
+I need to read owners of policies.;microsoft.directory/policies/owners/read;Policy Reader
+I need to read owners of policies.;microsoft.directory/policies/owners/read;Policy Reader
+I need to read owners of policies.;microsoft.directory/policies/owners/read;Policy Reader
+I need to read owners of policies.;microsoft.directory/policies/owners/read;Policy Reader
+I need to grant consent for any permission to any application.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Application Administrator
+I need to grant consent for any permission to any application.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Application Administrator
+I need to grant consent for any permission to any application.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Application Administrator
+I need to grant consent for any permission to any application.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Application Administrator
+I need to grant consent for any permission to any application.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Application Administrator
+I need to read all properties of directory roles.;microsoft.directory/directoryRoleTemplates/allProperties/read;NONE
+I need to read all properties of directory roles.;microsoft.directory/directoryRoleTemplates/allProperties/read;NONE
+I need to read all properties of directory roles.;microsoft.directory/directoryRoleTemplates/allProperties/read;NONE
+I need to read all properties of directory roles.;microsoft.directory/directoryRoleTemplates/allProperties/read;NONE
+I need to read all properties of directory roles.;microsoft.directory/directoryRoleTemplates/allProperties/read;NONE
+I need to read basic properties on an organization.;microsoft.directory/multiTenantOrganization/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties on an organization.;microsoft.directory/multiTenantOrganization/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties on an organization.;microsoft.directory/multiTenantOrganization/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties on an organization.;microsoft.directory/multiTenantOrganization/standard/read;Multi-Tenant Organization Reader
+I need to read basic properties on an organization.;microsoft.directory/multiTenantOrganization/standard/read;Multi-Tenant Organization Reader
+I need to disable service principals.;microsoft.directory/servicePrincipals/disable;Service Principal Admin
+I need to disable service principals.;microsoft.directory/servicePrincipals/disable;Service Principal Admin
+I need to disable service principals.;microsoft.directory/servicePrincipals/disable;Service Principal Admin
+I need to disable service principals.;microsoft.directory/servicePrincipals/disable;Service Principal Admin
+I need to disable service principals.;microsoft.directory/servicePrincipals/disable;Service Principal Admin
+I need to read policies.policyAppliedTo property.;microsoft.directory/applicationPolicies/policyAppliedTo/read;Application Policies Reader
+I need to read policies.policyAppliedTo property.;microsoft.directory/applicationPolicies/policyAppliedTo/read;Application Policies Reader
+I need to read policies.policyAppliedTo property.;microsoft.directory/applicationPolicies/policyAppliedTo/read;Application Policies Reader
+I need to read policies.policyAppliedTo property.;microsoft.directory/applicationPolicies/policyAppliedTo/read;Application Policies Reader
+I need to read policies.policyAppliedTo property.;microsoft.directory/applicationPolicies/policyAppliedTo/read;Application Policies Reader
+I need to read all aspects of Viva Insights.;NONE;NONE
+I need to read all aspects of Viva Insights.;NONE;NONE
+I need to read all aspects of Viva Insights.;NONE;NONE
+I need to read all aspects of Viva Insights.;NONE;NONE
+I need to read all aspects of Viva Insights.;NONE;NONE
+I need to update custom security attribute values for devices.;microsoft.directory/devices/customSecurityAttributes/update;Attribute Assignment Reader
+I need to update custom security attribute values for devices.;microsoft.directory/devices/customSecurityAttributes/update;Attribute Assignment Reader
+I need to update custom security attribute values for devices.;microsoft.directory/devices/customSecurityAttributes/update;Attribute Assignment Reader
+I need to update custom security attribute values for devices.;microsoft.directory/devices/customSecurityAttributes/update;Attribute Assignment Reader
+I need to update custom security attribute values for devices.;microsoft.directory/devices/customSecurityAttributes/update;Attribute Assignment Reader
+I need to create custom rules that define network locations.;NONE;NONE
+I need to create custom rules that define network locations.;NONE;NONE
+I need to create custom rules that define network locations.;NONE;NONE
+I need to create custom rules that define network locations.;NONE;NONE
+I need to create custom rules that define network locations.;NONE;NONE
+I need to read members of administrative units.;microsoft.directory/administrativeUnits/members/read;User Administrator
+I need to read members of administrative units.;microsoft.directory/administrativeUnits/members/read;User Administrator
+I need to read members of administrative units.;microsoft.directory/administrativeUnits/members/read;User Administrator
+I need to read members of administrative units.;microsoft.directory/administrativeUnits/members/read;User Administrator
+I need to read members of administrative units.;microsoft.directory/administrativeUnits/members/read;User Administrator
+I need to read analytics reports of content understanding in Microsoft 365 admin center.;microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read;Global Reader
+I need to read analytics reports of content understanding in Microsoft 365 admin center.;microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read;Global Reader
+I need to read analytics reports of content understanding in Microsoft 365 admin center.;microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read;Global Reader
+I need to read analytics reports of content understanding in Microsoft 365 admin center.;microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read;Global Reader
+I need to read analytics reports of content understanding in Microsoft 365 admin center.;microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read;Global Reader
+I need to read all properties of private network connectors.;microsoft.directory/connectors/allProperties/read;NONE
+I need to read all properties of private network connectors.;microsoft.directory/connectors/allProperties/read;NONE
+I need to read all properties of private network connectors.;microsoft.directory/connectors/allProperties/read;NONE
+I need to read all properties of private network connectors.;microsoft.directory/connectors/allProperties/read;NONE
+I need to read all properties of private network connectors.;microsoft.directory/connectors/allProperties/read;NONE
+I need to manage aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to manage aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to manage aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to manage aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to manage aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to manage access reviews of application role assignments in Microsoft Entra ID.;NONE;NONE
+I need to manage access reviews of application role assignments in Microsoft Entra ID.;NONE;NONE
+I need to manage access reviews of application role assignments in Microsoft Entra ID.;NONE;NONE
+I need to manage access reviews of application role assignments in Microsoft Entra ID.;NONE;NONE
+I need to manage access reviews of application role assignments in Microsoft Entra ID.;NONE;NONE
+I need to manage all aspects of attribute sets.;microsoft.directory/attributeSets/allProperties/allTasks;Attribute Definition Administrator
+I need to manage all aspects of attribute sets.;microsoft.directory/attributeSets/allProperties/allTasks;Attribute Definition Administrator
+I need to manage all aspects of attribute sets.;microsoft.directory/attributeSets/allProperties/allTasks;Attribute Definition Administrator
+I need to manage all aspects of attribute sets.;microsoft.directory/attributeSets/allProperties/allTasks;Attribute Definition Administrator
+I need to manage all aspects of attribute sets.;microsoft.directory/attributeSets/allProperties/allTasks;Attribute Definition Administrator
+I need to delete certificate authority configurations for Internet of Things (IoT) device.;microsoft.directory/certificateBasedDeviceAuthConfigurations/delete;IoT Device Administrator
+I need to delete certificate authority configurations for Internet of Things (IoT) device.;microsoft.directory/certificateBasedDeviceAuthConfigurations/delete;IoT Device Administrator
+I need to delete certificate authority configurations for Internet of Things (IoT) device.;microsoft.directory/certificateBasedDeviceAuthConfigurations/delete;IoT Device Administrator
+I need to delete certificate authority configurations for Internet of Things (IoT) device.;microsoft.directory/certificateBasedDeviceAuthConfigurations/delete;IoT Device Administrator
+I need to delete certificate authority configurations for Internet of Things (IoT) device.;microsoft.directory/certificateBasedDeviceAuthConfigurations/delete;IoT Device Administrator
+I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.;microsoft.directory/groups.security/dynamicMembershipRule/update;Group Administrator
+I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.;microsoft.directory/groups.security/dynamicMembershipRule/update;Group Administrator
+I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.;microsoft.directory/groups.security/dynamicMembershipRule/update;Group Administrator
+I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.;microsoft.directory/groups.security/dynamicMembershipRule/update;Group Administrator
+I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.;microsoft.directory/groups.security/dynamicMembershipRule/update;Group Administrator
+I need to read basic properties on devices.;microsoft.directory/devices/allProperties/read;Device Reader
+I need to read basic properties on devices.;microsoft.directory/devices/allProperties/read;Device Reader
+I need to read basic properties on devices.;microsoft.directory/devices/allProperties/read;Device Reader
+I need to read basic properties on devices.;microsoft.directory/devices/allProperties/read;Device Reader
+I need to read basic properties on devices.;microsoft.directory/devices/allProperties/read;Device Reader
+I need to update basic properties of printers in Microsoft Print.;microsoft.azure.print/printers/basic/update;Printer Technician
+I need to update basic properties of printers in Microsoft Print.;microsoft.azure.print/printers/basic/update;Printer Technician
+I need to update basic properties of printers in Microsoft Print.;microsoft.azure.print/printers/basic/update;Printer Technician
+I need to update basic properties of printers in Microsoft Print.;microsoft.azure.print/printers/basic/update;Printer Technician
+I need to update basic properties of printers in Microsoft Print.;microsoft.azure.print/printers/basic/update;Printer Technician
+I need to read all properties (including privileged properties) on all types of applications.;microsoft.directory/applications/allProperties/allTasks;Privileged Role Administrator
+I need to read all properties (including privileged properties) on all types of applications.;microsoft.directory/applications/allProperties/allTasks;Privileged Role Administrator
+I need to read all properties (including privileged properties) on all types of applications.;microsoft.directory/applications/allProperties/allTasks;Privileged Role Administrator
+I need to read all properties (including privileged properties) on all types of applications.;microsoft.directory/applications/allProperties/allTasks;Privileged Role Administrator
+I need to read all properties (including privileged properties) on all types of applications.;microsoft.directory/applications/allProperties/allTasks;Privileged Role Administrator
+I need to create Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Administrator
+I need to create Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Administrator
+I need to create Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Administrator
+I need to create Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Administrator
+I need to create Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Administrator
+I need to manage all aspects of Dynamics 365.;NONE;NONE
+I need to manage all aspects of Dynamics 365.;NONE;NONE
+I need to manage all aspects of Dynamics 365.;NONE;NONE
+I need to manage all aspects of Dynamics 365.;NONE;NONE
+I need to manage all aspects of Dynamics 365.;NONE;NONE
+I need to create all types of applications.;microsoft.directory/applications/createAsOwner;Application Developer
+I need to create all types of applications.;microsoft.directory/applications/createAsOwner;Application Developer
+I need to create all types of applications.;microsoft.directory/applications/createAsOwner;Application Developer
+I need to create all types of applications.;microsoft.directory/applications/createAsOwner;Application Developer
+I need to create all types of applications.;microsoft.directory/applications/createAsOwner;Application Developer
+I need to read all properties of Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/basic/read;NONE
+I need to read all properties of Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/basic/read;NONE
+I need to read all properties of Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/basic/read;NONE
+I need to read all properties of Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/basic/read;NONE
+I need to read all properties of Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/basic/read;NONE
+I need to perform the ``enable directory feature`` service action.;NONE;NONE
+I need to perform the ``enable directory feature`` service action.;NONE;NONE
+I need to perform the ``enable directory feature`` service action.;NONE;NONE
+I need to perform the ``enable directory feature`` service action.;NONE;NONE
+I need to perform the ``enable directory feature`` service action.;NONE;NONE
+I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.;NONE;NONE
+I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.;NONE;NONE
+I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.;NONE;NONE
+I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.;NONE;NONE
+I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.;NONE;NONE
+I need to manage all aspects of Azure Information Protection.;NONE;NONE
+I need to manage all aspects of Azure Information Protection.;NONE;NONE
+I need to manage all aspects of Azure Information Protection.;NONE;NONE
+I need to manage all aspects of Azure Information Protection.;NONE;NONE
+I need to manage all aspects of Azure Information Protection.;NONE;NONE
+I need to read standard properties of all resources in the Security and Compliance centers.;NONE;NONE
+I need to read standard properties of all resources in the Security and Compliance centers.;NONE;NONE
+I need to read standard properties of all resources in the Security and Compliance centers.;NONE;NONE
+I need to read standard properties of all resources in the Security and Compliance centers.;NONE;NONE
+I need to read standard properties of all resources in the Security and Compliance centers.;NONE;NONE
+I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.;NONE;NONE
+I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.;NONE;NONE
+I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.;NONE;NONE
+I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.;NONE;NONE
+I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.;NONE;NONE
+I need to update authentication properties on service principals.;microsoft.directory/servicePrincipals/authentication/update;Service Principal Administrator
+I need to update authentication properties on service principals.;microsoft.directory/servicePrincipals/authentication/update;Service Principal Administrator
+I need to update authentication properties on service principals.;microsoft.directory/servicePrincipals/authentication/update;Service Principal Administrator
+I need to update authentication properties on service principals.;microsoft.directory/servicePrincipals/authentication/update;Service Principal Administrator
+I need to update authentication properties on service principals.;microsoft.directory/servicePrincipals/authentication/update;Service Principal Administrator
+I need to update basic properties on devices.;microsoft.directory/devices/basic/update;Device Administrator
+I need to update basic properties on devices.;microsoft.directory/devices/basic/update;Device Administrator
+I need to update basic properties on devices.;microsoft.directory/devices/basic/update;Device Administrator
+I need to update basic properties on devices.;microsoft.directory/devices/basic/update;Device Administrator
+I need to update basic properties on devices.;microsoft.directory/devices/basic/update;Device Administrator
+I need to read service principal role assignments.;microsoft.directory/servicePrincipals/appRoleAssignments/read;NONE
+I need to read service principal role assignments.;microsoft.directory/servicePrincipals/appRoleAssignments/read;NONE
+I need to read service principal role assignments.;microsoft.directory/servicePrincipals/appRoleAssignments/read;NONE
+I need to read service principal role assignments.;microsoft.directory/servicePrincipals/appRoleAssignments/read;NONE
+I need to read service principal role assignments.;microsoft.directory/servicePrincipals/appRoleAssignments/read;NONE
+I need to disable users.;microsoft.directory/users/disable;NONE
+I need to disable users.;microsoft.directory/users/disable;NONE
+I need to disable users.;microsoft.directory/users/disable;NONE
+I need to disable users.;microsoft.directory/users/disable;NONE
+I need to disable users.;microsoft.directory/users/disable;NONE
+I need to update basic federation configuration for domains.;microsoft.directory/domains/federationConfiguration/basic/update;NONE
+I need to update basic federation configuration for domains.;microsoft.directory/domains/federationConfiguration/basic/update;NONE
+I need to update basic federation configuration for domains.;microsoft.directory/domains/federationConfiguration/basic/update;NONE
+I need to update basic federation configuration for domains.;microsoft.directory/domains/federationConfiguration/basic/update;NONE
+I need to update basic federation configuration for domains.;microsoft.directory/domains/federationConfiguration/basic/update;NONE
+I need to read trusted certificate authorities for passwordless authentication.;NONE;NONE
+I need to read trusted certificate authorities for passwordless authentication.;NONE;NONE
+I need to read trusted certificate authorities for passwordless authentication.;NONE;NONE
+I need to read trusted certificate authorities for passwordless authentication.;NONE;NONE
+I need to read trusted certificate authorities for passwordless authentication.;NONE;NONE
+I need to read the eligible members of Microsoft Entra roles.;microsoft.directory/directoryRoles/eligibleMembers/read;NONE
+I need to read the eligible members of Microsoft Entra roles.;microsoft.directory/directoryRoles/eligibleMembers/read;NONE
+I need to read the eligible members of Microsoft Entra roles.;microsoft.directory/directoryRoles/eligibleMembers/read;NONE
+I need to read the eligible members of Microsoft Entra roles.;microsoft.directory/directoryRoles/eligibleMembers/read;NONE
+I need to read the eligible members of Microsoft Entra roles.;microsoft.directory/directoryRoles/eligibleMembers/read;NONE
+I need to read application role assignments of groups.;microsoft.directory/groups/appRoleAssignments/read;Group Reader
+I need to read application role assignments of groups.;microsoft.directory/groups/appRoleAssignments/read;Group Reader
+I need to read application role assignments of groups.;microsoft.directory/groups/appRoleAssignments/read;Group Reader
+I need to read application role assignments of groups.;microsoft.directory/groups/appRoleAssignments/read;Group Reader
+I need to read application role assignments of groups.;microsoft.directory/groups/appRoleAssignments/read;Group Reader
+I need to read all properties for Defender for Cloud Apps.;NONE;NONE
+I need to read all properties for Defender for Cloud Apps.;NONE;NONE
+I need to read all properties for Defender for Cloud Apps.;NONE;NONE
+I need to read all properties for Defender for Cloud Apps.;NONE;NONE
+I need to read all properties for Defender for Cloud Apps.;NONE;NONE
+I need to manage all aspects of Microsoft 365 Backup.;microsoft.backup/allEntities/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to manage all aspects of Microsoft 365 Backup.;microsoft.backup/allEntities/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to manage all aspects of Microsoft 365 Backup.;microsoft.backup/allEntities/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to manage all aspects of Microsoft 365 Backup.;microsoft.backup/allEntities/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to manage all aspects of Microsoft 365 Backup.;microsoft.backup/allEntities/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to read and update what's new messages visibility.;NONE;NONE
+I need to read and update what's new messages visibility.;NONE;NONE
+I need to read and update what's new messages visibility.;NONE;NONE
+I need to read and update what's new messages visibility.;NONE;NONE
+I need to read and update what's new messages visibility.;NONE;NONE
+I need to update extension properties on applications.;microsoft.directory/applications/extensionProperties/update;Application Administrator
+I need to update extension properties on applications.;microsoft.directory/applications/extensionProperties/update;Application Administrator
+I need to update extension properties on applications.;microsoft.directory/applications/extensionProperties/update;Application Administrator
+I need to update extension properties on applications.;microsoft.directory/applications/extensionProperties/update;Application Administrator
+I need to update extension properties on applications.;microsoft.directory/applications/extensionProperties/update;Application Administrator
+I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update;NONE
+I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update;NONE
+I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update;NONE
+I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update;NONE
+I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update;NONE
+I need to read the group memberships on service principals.;microsoft.directory/servicePrincipals/memberOf/read;NONE
+I need to read the group memberships on service principals.;microsoft.directory/servicePrincipals/memberOf/read;NONE
+I need to read the group memberships on service principals.;microsoft.directory/servicePrincipals/memberOf/read;NONE
+I need to read the group memberships on service principals.;microsoft.directory/servicePrincipals/memberOf/read;NONE
+I need to read the group memberships on service principals.;microsoft.directory/servicePrincipals/memberOf/read;NONE
+I need to disable devices in Microsoft Entra ID.;microsoft.directory/devices/disable;Device Administrator
+I need to disable devices in Microsoft Entra ID.;microsoft.directory/devices/disable;Device Administrator
+I need to disable devices in Microsoft Entra ID.;microsoft.directory/devices/disable;Device Administrator
+I need to disable devices in Microsoft Entra ID.;microsoft.directory/devices/disable;Device Administrator
+I need to disable devices in Microsoft Entra ID.;microsoft.directory/devices/disable;Device Administrator
+I need to update basic properties on Security groups, excluding role-assignable groups.;microsoft.directory/groups/security/update;Group Administrator
+I need to update basic properties on Security groups, excluding role-assignable groups.;microsoft.directory/groups/security/update;Group Administrator
+I need to update basic properties on Security groups, excluding role-assignable groups.;microsoft.directory/groups/security/update;Group Administrator
+I need to update basic properties on Security groups, excluding role-assignable groups.;microsoft.directory/groups/security/update;Group Administrator
+I need to update basic properties on Security groups, excluding role-assignable groups.;microsoft.directory/groups/security/update;Group Administrator
+I need to update all application proxy properties.;NONE;NONE
+I need to update all application proxy properties.;NONE;NONE
+I need to update all application proxy properties.;NONE;NONE
+I need to update all application proxy properties.;NONE;NONE
+I need to update all application proxy properties.;NONE;NONE
+I need to manage all aspects of Microsoft Edge.;microsoft.edge/allEntities/allProperties/allTasks;Edge Administrator
+I need to manage all aspects of Microsoft Edge.;microsoft.edge/allEntities/allProperties/allTasks;Edge Administrator
+I need to manage all aspects of Microsoft Edge.;microsoft.edge/allEntities/allProperties/allTasks;Edge Administrator
+I need to manage all aspects of Microsoft Edge.;microsoft.edge/allEntities/allProperties/allTasks;Edge Administrator
+I need to manage all aspects of Microsoft Edge.;microsoft.edge/allEntities/allProperties/allTasks;Edge Administrator
+I need to read all properties of printers in Microsoft Print.;NONE;NONE
+I need to read all properties of printers in Microsoft Print.;NONE;NONE
+I need to read all properties of printers in Microsoft Print.;NONE;NONE
+I need to read all properties of printers in Microsoft Print.;NONE;NONE
+I need to read all properties of printers in Microsoft Print.;NONE;NONE
+I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.;microsoft.directory/accessReviews/definitions.applications/allProperties/read;Privileged Role Administrator
+I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.;microsoft.directory/accessReviews/definitions.applications/allProperties/read;Privileged Role Administrator
+I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.;microsoft.directory/accessReviews/definitions.applications/allProperties/read;Privileged Role Administrator
+I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.;microsoft.directory/accessReviews/definitions.applications/allProperties/read;Privileged Role Administrator
+I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.;microsoft.directory/accessReviews/definitions.applications/allProperties/read;Privileged Role Administrator
+I need to update applicationsverification property.;microsoft.directory/applications/verification/update;Application Administrator
+I need to update applicationsverification property.;microsoft.directory/applications/verification/update;Application Administrator
+I need to update applicationsverification property.;microsoft.directory/applications/verification/update;Application Administrator
+I need to update applicationsverification property.;microsoft.directory/applications/verification/update;Application Administrator
+I need to update applicationsverification property.;microsoft.directory/applications/verification/update;Application Administrator
+I need to manage all aspects of Power Apps.;microsoft.powerApps/allEntities/allTasks;Global Administrator
+I need to manage all aspects of Power Apps.;microsoft.powerApps/allEntities/allTasks;Global Administrator
+I need to manage all aspects of Power Apps.;microsoft.powerApps/allEntities/allTasks;Global Administrator
+I need to manage all aspects of Power Apps.;microsoft.powerApps/allEntities/allTasks;Global Administrator
+I need to manage all aspects of Power Apps.;microsoft.powerApps/allEntities/allTasks;Global Administrator
+I need to read and configure key sets in Azure Active Directory B2C.;NONE;NONE
+I need to read and configure key sets in Azure Active Directory B2C.;NONE;NONE
+I need to read and configure key sets in Azure Active Directory B2C.;NONE;NONE
+I need to read and configure key sets in Azure Active Directory B2C.;NONE;NONE
+I need to read and configure key sets in Azure Active Directory B2C.;NONE;NONE
+I need to read aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to read aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to read aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to read aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to read aspects of Microsoft Graph Data Connect.;NONE;NONE
+I need to delete application policies.;microsoft.directory/applicationPolicies/delete;Application Policy Admin
+I need to delete application policies.;microsoft.directory/applicationPolicies/delete;Application Policy Admin
+I need to delete application policies.;microsoft.directory/applicationPolicies/delete;Application Policy Admin
+I need to delete application policies.;microsoft.directory/applicationPolicies/delete;Application Policy Admin
+I need to delete application policies.;microsoft.directory/applicationPolicies/delete;Application Policy Admin
+I need to read provisioning settings associated with the application object.;NONE;NONE
+I need to read provisioning settings associated with the application object.;NONE;NONE
+I need to read provisioning settings associated with the application object.;NONE;NONE
+I need to read provisioning settings associated with the application object.;NONE;NONE
+I need to read provisioning settings associated with the application object.;NONE;NONE
+I need to update tags of applications.;NONE;NONE
+I need to update tags of applications.;NONE;NONE
+I need to update tags of applications.;NONE;NONE
+I need to update tags of applications.;NONE;NONE
+I need to update tags of applications.;NONE;NONE
+I need to create IoT Device from Internet of Things (IoT) device templates.;microsoft.directory/deviceTemplates/createDeviceFromTemplate;IoT Device Administrator
+I need to create IoT Device from Internet of Things (IoT) device templates.;microsoft.directory/deviceTemplates/createDeviceFromTemplate;IoT Device Administrator
+I need to create IoT Device from Internet of Things (IoT) device templates.;microsoft.directory/deviceTemplates/createDeviceFromTemplate;IoT Device Administrator
+I need to create IoT Device from Internet of Things (IoT) device templates.;microsoft.directory/deviceTemplates/createDeviceFromTemplate;IoT Device Administrator
+I need to create IoT Device from Internet of Things (IoT) device templates.;microsoft.directory/deviceTemplates/createDeviceFromTemplate;IoT Device Administrator
+I need to update basic policies for users.;microsoft.directory/userCredentialPolicies/basic/update;User Credential Policies Admin
+I need to update basic policies for users.;microsoft.directory/userCredentialPolicies/basic/update;User Credential Policies Admin
+I need to update basic policies for users.;microsoft.directory/userCredentialPolicies/basic/update;User Credential Policies Admin
+I need to update basic policies for users.;microsoft.directory/userCredentialPolicies/basic/update;User Credential Policies Admin
+I need to update basic policies for users.;microsoft.directory/userCredentialPolicies/basic/update;User Credential Policies Admin
+I need to manage all aspects of Desktop Analytics.;microsoft.office365.desktopAnalytics/allEntities/allTasks;Insights Analyst
+I need to manage all aspects of Desktop Analytics.;microsoft.office365.desktopAnalytics/allEntities/allTasks;Insights Analyst
+I need to manage all aspects of Desktop Analytics.;microsoft.office365.desktopAnalytics/allEntities/allTasks;Insights Analyst
+I need to manage all aspects of Desktop Analytics.;microsoft.office365.desktopAnalytics/allEntities/allTasks;Insights Analyst
+I need to manage all aspects of Desktop Analytics.;microsoft.office365.desktopAnalytics/allEntities/allTasks;Insights Analyst
+I need to read all data in the Call Quality Dashboard (CQD).;NONE;NONE
+I need to read all data in the Call Quality Dashboard (CQD).;NONE;NONE
+I need to read all data in the Call Quality Dashboard (CQD).;NONE;NONE
+I need to read all data in the Call Quality Dashboard (CQD).;NONE;NONE
+I need to read all data in the Call Quality Dashboard (CQD).;NONE;NONE
+I need to read reports of attack simulation, responses, and associated training.;NONE;NONE
+I need to read reports of attack simulation, responses, and associated training.;NONE;NONE
+I need to read reports of attack simulation, responses, and associated training.;NONE;NONE
+I need to read reports of attack simulation, responses, and associated training.;NONE;NONE
+I need to read reports of attack simulation, responses, and associated training.;NONE;NONE
+I need to read and update all properties for an organization.;microsoft.directory/multiTenantOrganization/basic/update;NONE
+I need to read and update all properties for an organization.;microsoft.directory/multiTenantOrganization/basic/update;NONE
+I need to read and update all properties for an organization.;microsoft.directory/multiTenantOrganization/basic/update;NONE
+I need to read and update all properties for an organization.;microsoft.directory/multiTenantOrganization/basic/update;NONE
+I need to read and update all properties for an organization.;microsoft.directory/multiTenantOrganization/basic/update;NONE
+I need to manage all aspects of Office 365 billing.;microsoft.commerce.billing/allEntities/allProperties/allTasks;Network Administrator
+I need to manage all aspects of Office 365 billing.;microsoft.commerce.billing/allEntities/allProperties/allTasks;Network Administrator
+I need to manage all aspects of Office 365 billing.;microsoft.commerce.billing/allEntities/allProperties/allTasks;Network Administrator
+I need to manage all aspects of Office 365 billing.;microsoft.commerce.billing/allEntities/allProperties/allTasks;Network Administrator
+I need to manage all aspects of Office 365 billing.;microsoft.commerce.billing/allEntities/allProperties/allTasks;Network Administrator
+I need to read basic properties on OAuth 2.0 permission grants.;microsoft.directory/oAuth2PermissionGrants/allProperties/read;NONE
+I need to read basic properties on OAuth 2.0 permission grants.;microsoft.directory/oAuth2PermissionGrants/allProperties/read;NONE
+I need to read basic properties on OAuth 2.0 permission grants.;microsoft.directory/oAuth2PermissionGrants/allProperties/read;NONE
+I need to read basic properties on OAuth 2.0 permission grants.;microsoft.directory/oAuth2PermissionGrants/allProperties/read;NONE
+I need to read basic properties on OAuth 2.0 permission grants.;microsoft.directory/oAuth2PermissionGrants/allProperties/read;NONE
+I need to delete Security groups, excluding role-assignable groups.;microsoft.directory/accessReviews/definitions.groups/delete;User Administrator
+I need to delete Security groups, excluding role-assignable groups.;microsoft.directory/accessReviews/definitions.groups/delete;User Administrator
+I need to delete Security groups, excluding role-assignable groups.;microsoft.directory/accessReviews/definitions.groups/delete;User Administrator
+I need to delete Security groups, excluding role-assignable groups.;microsoft.directory/accessReviews/definitions.groups/delete;User Administrator
+I need to delete Security groups, excluding role-assignable groups.;microsoft.directory/accessReviews/definitions.groups/delete;User Administrator
+I need to delete a tenant participating in a multi-tenant organization.;NONE;NONE
+I need to delete a tenant participating in a multi-tenant organization.;NONE;NONE
+I need to delete a tenant participating in a multi-tenant organization.;NONE;NONE
+I need to delete a tenant participating in a multi-tenant organization.;NONE;NONE
+I need to delete a tenant participating in a multi-tenant organization.;NONE;NONE
+I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.;microsoft.backup/exchangeRestoreSessions/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.;microsoft.backup/exchangeRestoreSessions/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.;microsoft.backup/exchangeRestoreSessions/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.;microsoft.backup/exchangeRestoreSessions/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.;microsoft.backup/exchangeRestoreSessions/allProperties/allTasks;Microsoft 365 Backup Administrator
+I need to update credentials of service principals.;microsoft.directory/servicePrincipals/credentials/update;Service Principal Manager
+I need to update credentials of service principals.;microsoft.directory/servicePrincipals/credentials/update;Service Principal Manager
+I need to update credentials of service principals.;microsoft.directory/servicePrincipals/credentials/update;Service Principal Manager
+I need to update credentials of service principals.;microsoft.directory/servicePrincipals/credentials/update;Service Principal Manager
+I need to update credentials of service principals.;microsoft.directory/servicePrincipals/credentials/update;Service Principal Manager
+I need to create and delete all resources, and read and update standard properties in SharePoint.;NONE;NONE
+I need to create and delete all resources, and read and update standard properties in SharePoint.;NONE;NONE
+I need to create and delete all resources, and read and update standard properties in SharePoint.;NONE;NONE
+I need to create and delete all resources, and read and update standard properties in SharePoint.;NONE;NONE
+I need to create and delete all resources, and read and update standard properties in SharePoint.;NONE;NONE
+I need to manage all aspects of Microsoft Entra Permissions Management.;microsoft.directory/accessReviews/allProperties/allTasks;Identity Governance Administrator
+I need to manage all aspects of Microsoft Entra Permissions Management.;microsoft.directory/accessReviews/allProperties/allTasks;Identity Governance Administrator
+I need to manage all aspects of Microsoft Entra Permissions Management.;microsoft.directory/accessReviews/allProperties/allTasks;Identity Governance Administrator
+I need to manage all aspects of Microsoft Entra Permissions Management.;microsoft.directory/accessReviews/allProperties/allTasks;Identity Governance Administrator
+I need to manage all aspects of Microsoft Entra Permissions Management.;microsoft.directory/accessReviews/allProperties/allTasks;Identity Governance Administrator
+I need to create and delete Microsoft Entra role templates, and read and update all properties.;NONE;NONE
+I need to create and delete Microsoft Entra role templates, and read and update all properties.;NONE;NONE
+I need to create and delete Microsoft Entra role templates, and read and update all properties.;NONE;NONE
+I need to create and delete Microsoft Entra role templates, and read and update all properties.;NONE;NONE
+I need to create and delete Microsoft Entra role templates, and read and update all properties.;NONE;NONE
+I need to update basic settings of cross-tenant access policy.;NONE;NONE
+I need to update basic settings of cross-tenant access policy.;NONE;NONE
+I need to update basic settings of cross-tenant access policy.;NONE;NONE
+I need to update basic settings of cross-tenant access policy.;NONE;NONE
+I need to update basic settings of cross-tenant access policy.;NONE;NONE
+I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.;microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update;IoT Device Administrator
+I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.;microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update;IoT Device Administrator
+I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.;microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update;IoT Device Administrator
+I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.;microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update;IoT Device Administrator
+I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.;microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update;IoT Device Administrator
+I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.;NONE;NONE
+I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.;NONE;NONE
+I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.;NONE;NONE
+I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.;NONE;NONE
+I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.;NONE;NONE
+I need to update owners of service principals.;microsoft.directory/servicePrincipals/owners/update;Service Principal Admin
+I need to update owners of service principals.;microsoft.directory/servicePrincipals/owners/update;Service Principal Admin
+I need to update owners of service principals.;microsoft.directory/servicePrincipals/owners/update;Service Principal Admin
+I need to update owners of service principals.;microsoft.directory/servicePrincipals/owners/update;Service Principal Admin
+I need to update owners of service principals.;microsoft.directory/servicePrincipals/owners/update;Service Principal Admin
+I need to perform the ``activate service`` action for a service.;microsoft.directory/serviceAction/activateService;NONE
+I need to perform the ``activate service`` action for a service.;microsoft.directory/serviceAction/activateService;NONE
+I need to perform the ``activate service`` action for a service.;microsoft.directory/serviceAction/activateService;NONE
+I need to perform the ``activate service`` action for a service.;microsoft.directory/serviceAction/activateService;NONE
+I need to perform the ``activate service`` action for a service.;microsoft.directory/serviceAction/activateService;NONE
+I need to create policies in Microsoft Entra ID.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Policy Administrator
+I need to create policies in Microsoft Entra ID.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Policy Administrator
+I need to create policies in Microsoft Entra ID.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Policy Administrator
+I need to create policies in Microsoft Entra ID.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Policy Administrator
+I need to create policies in Microsoft Entra ID.;microsoft.directory/conditionalAccessPolicies/create;Conditional Access Policy Administrator
+I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.;microsoft.directory/conditionalAccessPolicies/basic/update;Conditional Access Administrator
+I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.;microsoft.directory/conditionalAccessPolicies/basic/update;Conditional Access Administrator
+I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.;microsoft.directory/conditionalAccessPolicies/basic/update;Conditional Access Administrator
+I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.;microsoft.directory/conditionalAccessPolicies/basic/update;Conditional Access Administrator
+I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.;microsoft.directory/conditionalAccessPolicies/basic/update;Conditional Access Administrator
+I need to permanently delete groups, which can no longer be restored.;microsoft.directory/groups/delete;User Administrator
+I need to permanently delete groups, which can no longer be restored.;microsoft.directory/groups/delete;User Administrator
+I need to permanently delete groups, which can no longer be restored.;microsoft.directory/groups/delete;User Administrator
+I need to permanently delete groups, which can no longer be restored.;microsoft.directory/groups/delete;User Administrator
+I need to permanently delete groups, which can no longer be restored.;microsoft.directory/groups/delete;User Administrator
+I need to delete Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/delete;Conditional Access Policy Administrator
+I need to delete Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/delete;Conditional Access Policy Administrator
+I need to delete Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/delete;Conditional Access Policy Administrator
+I need to delete Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/delete;Conditional Access Policy Administrator
+I need to delete Conditional Access policies.;microsoft.directory/conditionalAccessPolicies/delete;Conditional Access Policy Administrator
+I need to read all properties of admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Identity Governance Administrator
+I need to read all properties of admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Identity Governance Administrator
+I need to read all properties of admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Identity Governance Administrator
+I need to read all properties of admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Identity Governance Administrator
+I need to read all properties of admin consent request policies in Microsoft Entra ID.;microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks;Identity Governance Administrator
+I need to read basic properties on subscriptions.;microsoft.directory/subscribedSkus/standard/read;NONE
+I need to read basic properties on subscriptions.;microsoft.directory/subscribedSkus/standard/read;NONE
+I need to read basic properties on subscriptions.;microsoft.directory/subscribedSkus/standard/read;NONE
+I need to read basic properties on subscriptions.;microsoft.directory/subscribedSkus/standard/read;NONE
+I need to read basic properties on subscriptions.;microsoft.directory/subscribedSkus/standard/read;NONE
+I need to manage learning sources and all their properties in Learning App.;NONE;NONE
+I need to manage learning sources and all their properties in Learning App.;NONE;NONE
+I need to manage learning sources and all their properties in Learning App.;NONE;NONE
+I need to manage learning sources and all their properties in Learning App.;NONE;NONE
+I need to manage learning sources and all their properties in Learning App.;NONE;NONE
+I need to create cross-tenant sync policy for partners.;NONE;NONE
+I need to create cross-tenant sync policy for partners.;NONE;NONE
+I need to create cross-tenant sync policy for partners.;NONE;NONE
+I need to create cross-tenant sync policy for partners.;NONE;NONE
+I need to create cross-tenant sync policy for partners.;NONE;NONE
+I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.;microsoft.directory/permissionGrantPolicies/create;Global Administrator
+I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.;microsoft.directory/permissionGrantPolicies/create;Global Administrator
+I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.;microsoft.directory/permissionGrantPolicies/create;Global Administrator
+I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.;microsoft.directory/permissionGrantPolicies/create;Global Administrator
+I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.;microsoft.directory/permissionGrantPolicies/create;Global Administrator
+I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.;microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks;Organizational Messages Approver
+I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.;microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks;Organizational Messages Approver
+I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.;microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks;Organizational Messages Approver
+I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.;microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks;Organizational Messages Approver
+I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.;microsoft.office365.organizationalMessages/allEntities/allProperties/allTasks;Organizational Messages Approver
+I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.;NONE;NONE
+I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.;NONE;NONE
+I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.;NONE;NONE
+I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.;NONE;NONE
+I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.;NONE;NONE
+I need to restore deleted users.;NONE;NONE
+I need to restore deleted users.;NONE;NONE
+I need to restore deleted users.;NONE;NONE
+I need to restore deleted users.;NONE;NONE
+I need to restore deleted users.;NONE;NONE
+I need to update tenant restrictions of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update;Cross-Tenant Access Policy Administrator
+I need to update tenant restrictions of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update;Cross-Tenant Access Policy Administrator
+I need to update tenant restrictions of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update;Cross-Tenant Access Policy Administrator
+I need to update tenant restrictions of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update;Cross-Tenant Access Policy Administrator
+I need to update tenant restrictions of cross-tenant access policy for partners.;microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update;Cross-Tenant Access Policy Administrator
+I need to read all properties on audit logs, excluding custom security attributes audit logs.;NONE;NONE
+I need to read all properties on audit logs, excluding custom security attributes audit logs.;NONE;NONE
+I need to read all properties on audit logs, excluding custom security attributes audit logs.;NONE;NONE
+I need to read all properties on audit logs, excluding custom security attributes audit logs.;NONE;NONE
+I need to read all properties on audit logs, excluding custom security attributes audit logs.;NONE;NONE
+I need to read entities and permissions of SharePoint Embedded containers.;microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks;SharePoint Embedded Administrator
+I need to read entities and permissions of SharePoint Embedded containers.;microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks;SharePoint Embedded Administrator
+I need to read entities and permissions of SharePoint Embedded containers.;microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks;SharePoint Embedded Administrator
+I need to read entities and permissions of SharePoint Embedded containers.;microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks;SharePoint Embedded Administrator
+I need to read entities and permissions of SharePoint Embedded containers.;microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks;SharePoint Embedded Administrator
+I need to read and configure Azure DevOps.;microsoft.azure.devOps/allEntities/allTasks;Azure DevOps Administrator
+I need to read and configure Azure DevOps.;microsoft.azure.devOps/allEntities/allTasks;Azure DevOps Administrator
+I need to read and configure Azure DevOps.;microsoft.azure.devOps/allEntities/allTasks;Azure DevOps Administrator
+I need to read and configure Azure DevOps.;microsoft.azure.devOps/allEntities/allTasks;Azure DevOps Administrator
+I need to read and configure Azure DevOps.;microsoft.azure.devOps/allEntities/allTasks;Azure DevOps Administrator
+I need to update basic properties of custom rules that define network locations.;NONE;NONE
+I need to update basic properties of custom rules that define network locations.;NONE;NONE
+I need to update basic properties of custom rules that define network locations.;NONE;NONE
+I need to update basic properties of custom rules that define network locations.;NONE;NONE
+I need to update basic properties of custom rules that define network locations.;NONE;NONE
+I need to delete custom rules that define network locations.;NONE;NONE
+I need to delete custom rules that define network locations.;NONE;NONE
+I need to delete custom rules that define network locations.;NONE;NONE
+I need to delete custom rules that define network locations.;NONE;NONE
+I need to delete custom rules that define network locations.;NONE;NONE

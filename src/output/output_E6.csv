@@ -1,0 +1,501 @@
+request;permission;role
+I need to list the access keys for the storage accounts.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the access keys for the storage accounts.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the access keys for the storage accounts.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the access keys for the storage accounts.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the access keys for the storage accounts.;Storage Blob Data Reader;Storage Blob Data Reader
+I need full permissions on containers.;Storage Blob Data Owner;Storage Blob Data Owner
+I need full permissions on containers.;Storage Blob Data Owner;Storage Blob Data Owner
+I need full permissions on containers.;Storage Blob Data Owner;Storage Blob Data Owner
+I need full permissions on containers.;Storage Blob Data Owner;Storage Blob Data Owner
+I need full permissions on containers.;Storage Blob Data Owner;Storage Blob Data Owner
+I need to insert, merge, or replace table entities.;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE
+I need to get a virtual network subnet definition.;NONE;NONE
+I need to get a virtual network subnet definition.;NONE;NONE
+I need to get a virtual network subnet definition.;NONE;NONE
+I need to get a virtual network subnet definition.;NONE;NONE
+I need to get a virtual network subnet definition.;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE
+I need to get Status of Policy Operation.;NONE;NONE
+I need to get Status of Policy Operation.;NONE;NONE
+I need to get Status of Policy Operation.;NONE;NONE
+I need to get Status of Policy Operation.;NONE;NONE
+I need to get Status of Policy Operation.;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE
+I need to query table entities.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to query table entities.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to query table entities.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to query table entities.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to query table entities.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to create a registered container.;NONE;NONE
+I need to create a registered container.;NONE;NONE
+I need to create a registered container.;NONE;NONE
+I need to create a registered container.;NONE;NONE
+I need to create a registered container.;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;NONE;NONE
+I need to peek a message.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to peek a message.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to peek a message.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to peek a message.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to peek a message.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to create a Backup Instance.;NONE;NONE
+I need to create a Backup Instance.;NONE;NONE
+I need to create a Backup Instance.;NONE;NONE
+I need to create a Backup Instance.;NONE;NONE
+I need to create a Backup Instance.;NONE;NONE
+I need to update an Azure resource of type 'ResourceGuard'.;NONE;NONE
+I need to update an Azure resource of type 'ResourceGuard'.;NONE;NONE
+I need to update an Azure resource of type 'ResourceGuard'.;NONE;NONE
+I need to update an Azure resource of type 'ResourceGuard'.;NONE;NONE
+I need to update an Azure resource of type 'ResourceGuard'.;NONE;NONE
+I need to return all Recovery Points.;NONE;NONE
+I need to return all Recovery Points.;NONE;NONE
+I need to return all Recovery Points.;NONE;NONE
+I need to return all Recovery Points.;NONE;NONE
+I need to return all Recovery Points.;NONE;NONE
+I need to create and manage items which can be backed up.;Microsoft.Storage/storageAccounts/backupPolicies/write;Storage Blob Data Contributor
+I need to create and manage items which can be backed up.;Microsoft.Storage/storageAccounts/backupPolicies/write;Storage Blob Data Contributor
+I need to create and manage items which can be backed up.;Microsoft.Storage/storageAccounts/backupPolicies/write;Storage Blob Data Contributor
+I need to create and manage items which can be backed up.;Microsoft.Storage/storageAccounts/backupPolicies/write;Storage Blob Data Contributor
+I need to create and manage items which can be backed up.;Microsoft.Storage/storageAccounts/backupPolicies/write;Storage Blob Data Contributor
+I need to trigger cross region restore operation on given backup instance.;NONE;NONE
+I need to trigger cross region restore operation on given backup instance.;NONE;NONE
+I need to trigger cross region restore operation on given backup instance.;NONE;NONE
+I need to trigger cross region restore operation on given backup instance.;NONE;NONE
+I need to trigger cross region restore operation on given backup instance.;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE
+I need to return all Job Objects.;NONE;NONE
+I need to return all Job Objects.;NONE;NONE
+I need to return all Job Objects.;NONE;NONE
+I need to return all Job Objects.;NONE;NONE
+I need to return all Job Objects.;NONE;NONE
+I need to return Backup Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return Backup Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return Backup Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return Backup Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return Backup Operation Status for Recovery Services Vault.;NONE;NONE
+I need to check if the requested BackupVault Name is Available.;Microsoft.Storage/storageAccounts/backupPolicies/checkNameAvailability/action;Storage Blob Data Contributor
+I need to check if the requested BackupVault Name is Available.;Microsoft.Storage/storageAccounts/backupPolicies/checkNameAvailability/action;Storage Blob Data Contributor
+I need to check if the requested BackupVault Name is Available.;Microsoft.Storage/storageAccounts/backupPolicies/checkNameAvailability/action;Storage Blob Data Contributor
+I need to check if the requested BackupVault Name is Available.;Microsoft.Storage/storageAccounts/backupPolicies/checkNameAvailability/action;Storage Blob Data Contributor
+I need to check if the requested BackupVault Name is Available.;Microsoft.Storage/storageAccounts/backupPolicies/checkNameAvailability/action;Storage Blob Data Contributor
+I need to create and manage registered identities.;NONE;NONE
+I need to create and manage registered identities.;NONE;NONE
+I need to create and manage registered identities.;NONE;NONE
+I need to create and manage registered identities.;NONE;NONE
+I need to create and manage registered identities.;NONE;NONE
+I need full permissions on blobs.;NONE;NONE
+I need full permissions on blobs.;NONE;NONE
+I need full permissions on blobs.;NONE;NONE
+I need full permissions on blobs.;NONE;NONE
+I need full permissions on blobs.;NONE;NONE
+I need to delete a blob.;Blob.Delete;Storage Blob Data Contributor
+I need to delete a blob.;Blob.Delete;Storage Blob Data Contributor
+I need to delete a blob.;Blob.Delete;Storage Blob Data Contributor
+I need to delete a blob.;Blob.Delete;Storage Blob Data Contributor
+I need to delete a blob.;Blob.Delete;Storage Blob Data Contributor
+I need to modify a container's metadata or properties.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor
+I need to modify a container's metadata or properties.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor
+I need to modify a container's metadata or properties.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor
+I need to modify a container's metadata or properties.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor
+I need to modify a container's metadata or properties.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor
+I need to export Jobs.;NONE;NONE
+I need to export Jobs.;NONE;NONE
+I need to export Jobs.;NONE;NONE
+I need to export Jobs.;NONE;NONE
+I need to export Jobs.;NONE;NONE
+I need to list soft-deleted Backup Instances in a Backup Vault.;NONE;NONE
+I need to list soft-deleted Backup Instances in a Backup Vault.;NONE;NONE
+I need to list soft-deleted Backup Instances in a Backup Vault.;NONE;NONE
+I need to list soft-deleted Backup Instances in a Backup Vault.;NONE;NONE
+I need to list soft-deleted Backup Instances in a Backup Vault.;NONE;NONE
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return the result of reading blob tags.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return the result of reading blob tags.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return the result of reading blob tags.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return the result of reading blob tags.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return the result of reading blob tags.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/vaults/read;Backup Reader
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/vaults/read;Backup Reader
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/vaults/read;Backup Reader
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/vaults/read;Backup Reader
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/vaults/read;Backup Reader
+I need to delete the Backup Policy.;NONE;NONE
+I need to delete the Backup Policy.;NONE;NONE
+I need to delete the Backup Policy.;NONE;NONE
+I need to delete the Backup Policy.;NONE;NONE
+I need to delete the Backup Policy.;NONE;NONE
+I need to read roles and role assignments.;NONE;NONE
+I need to read roles and role assignments.;NONE;NONE
+I need to read roles and role assignments.;NONE;NONE
+I need to read roles and role assignments.;NONE;NONE
+I need to read roles and role assignments.;NONE;NONE
+I need to return all registered containers.;ListContainers;Storage Blob Data Reader
+I need to return all registered containers.;ListContainers;Storage Blob Data Reader
+I need to return all registered containers.;ListContainers;Storage Blob Data Reader
+I need to return all registered containers.;ListContainers;Storage Blob Data Reader
+I need to return all registered containers.;ListContainers;Storage Blob Data Reader
+I need to create and manage usage of Recovery Services vault.;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE
+I need to get information about a role definition.;NONE;NONE
+I need to get information about a role definition.;NONE;NONE
+I need to get information about a role definition.;NONE;NONE
+I need to get information about a role definition.;NONE;NONE
+I need to get information about a role definition.;NONE;NONE
+I need to list the unencrypted credentials related to the order.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the unencrypted credentials related to the order.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the unencrypted credentials related to the order.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the unencrypted credentials related to the order.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to list the unencrypted credentials related to the order.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to create and manage extended info related to vault.;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE
+I need to delete one or more messages from a queue.;Queue.Messages/Delete;Queue Data Message Sender
+I need to delete one or more messages from a queue.;Queue.Messages/Delete;Queue Data Message Sender
+I need to delete one or more messages from a queue.;Queue.Messages/Delete;Queue Data Message Sender
+I need to delete one or more messages from a queue.;Queue.Messages/Delete;Queue Data Message Sender
+I need to delete one or more messages from a queue.;Queue.Messages/Delete;Queue Data Message Sender
+I need to get a network interface definition.;NONE;NONE
+I need to get a network interface definition.;NONE;NONE
+I need to get a network interface definition.;NONE;NONE
+I need to get a network interface definition.;NONE;NONE
+I need to get a network interface definition.;NONE;NONE
+I need to update an Azure resource of type 'Backup Vault'.;Microsoft.Storage/storageAccounts/write;Storage Account Contributor
+I need to update an Azure resource of type 'Backup Vault'.;Microsoft.Storage/storageAccounts/write;Storage Account Contributor
+I need to update an Azure resource of type 'Backup Vault'.;Microsoft.Storage/storageAccounts/write;Storage Account Contributor
+I need to update an Azure resource of type 'Backup Vault'.;Microsoft.Storage/storageAccounts/write;Storage Account Contributor
+I need to update an Azure resource of type 'Backup Vault'.;Microsoft.Storage/storageAccounts/write;Storage Account Contributor
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;NONE;NONE
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;NONE;NONE
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;NONE;NONE
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;NONE;NONE
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;NONE;NONE
+I need to query tables.;NONE;NONE
+I need to query tables.;NONE;NONE
+I need to query tables.;NONE;NONE
+I need to query tables.;NONE;NONE
+I need to query tables.;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE
+I need to delete tables.;NONE;NONE
+I need to delete tables.;NONE;NONE
+I need to delete tables.;NONE;NONE
+I need to delete tables.;NONE;NONE
+I need to delete tables.;NONE;NONE
+I need to resolve the alert.;NONE;NONE
+I need to resolve the alert.;NONE;NONE
+I need to resolve the alert.;NONE;NONE
+I need to resolve the alert.;NONE;NONE
+I need to resolve the alert.;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE
+I need to modify queue metadata or properties.;NONE;NONE
+I need to modify queue metadata or properties.;NONE;NONE
+I need to modify queue metadata or properties.;NONE;NONE
+I need to modify queue metadata or properties.;NONE;NONE
+I need to modify queue metadata or properties.;NONE;NONE
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;Microsoft.Storage/storageAccounts/write;Storage Blob Data Contributor
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;Microsoft.Storage/storageAccounts/write;Storage Blob Data Contributor
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;Microsoft.Storage/storageAccounts/write;Storage Blob Data Contributor
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;Microsoft.Storage/storageAccounts/write;Storage Blob Data Contributor
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;Microsoft.Storage/storageAccounts/write;Storage Blob Data Contributor
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE
+I need to return the list of available skus.;NONE;NONE
+I need to return the list of available skus.;NONE;NONE
+I need to return the list of available skus.;NONE;NONE
+I need to return the list of available skus.;NONE;NONE
+I need to return the list of available skus.;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;NONE;NONE
+I need to return all containers belonging to the subscription.;ListContainers;Reader
+I need to return all containers belonging to the subscription.;ListContainers;Reader
+I need to return all containers belonging to the subscription.;ListContainers;Reader
+I need to return all containers belonging to the subscription.;ListContainers;Reader
+I need to return all containers belonging to the subscription.;ListContainers;Reader
+I need to delete a DataLakeAnalytics account.;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE
+I need to get ResourceGuard default operation request info.;NONE;NONE
+I need to get ResourceGuard default operation request info.;NONE;NONE
+I need to get ResourceGuard default operation request info.;NONE;NONE
+I need to get ResourceGuard default operation request info.;NONE;NONE
+I need to get ResourceGuard default operation request info.;NONE;NONE
+I need to delete table entities.;Storage.blobs/delete;Storage Blob Data Contributor
+I need to delete table entities.;Storage.blobs/delete;Storage Blob Data Contributor
+I need to delete table entities.;Storage.blobs/delete;Storage Blob Data Contributor
+I need to delete table entities.;Storage.blobs/delete;Storage Blob Data Contributor
+I need to delete table entities.;Storage.blobs/delete;Storage Blob Data Contributor
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE
+I need to return status of the operation.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return status of the operation.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return status of the operation.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return status of the operation.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to return status of the operation.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read;Storage Blob Data Reader
+I need to validate for backup of Backup Instance.;NONE;NONE
+I need to validate for backup of Backup Instance.;NONE;NONE
+I need to validate for backup of Backup Instance.;NONE;NONE
+I need to validate for backup of Backup Instance.;NONE;NONE
+I need to validate for backup of Backup Instance.;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE
+I need to perform Backup on the Backup Instance.;NONE;NONE
+I need to perform Backup on the Backup Instance.;NONE;NONE
+I need to perform Backup on the Backup Instance.;NONE;NONE
+I need to perform Backup on the Backup Instance.;NONE;NONE
+I need to perform Backup on the Backup Instance.;NONE;NONE
+I need to create or update a compute policy.;NONE;NONE
+I need to create or update a compute policy.;NONE;NONE
+I need to create or update a compute policy.;NONE;NONE
+I need to create or update a compute policy.;NONE;NONE
+I need to create or update a compute policy.;NONE;NONE
+I need to return the Account SAS token for the specified storage account.;NONE;NONE
+I need to return the Account SAS token for the specified storage account.;NONE;NONE
+I need to return the Account SAS token for the specified storage account.;NONE;NONE
+I need to return the Account SAS token for the specified storage account.;NONE;NONE
+I need to return the Account SAS token for the specified storage account.;NONE;NONE
+I need to regenerate the access keys for the specified storage account.;Microsoft.Authorization/roleAssignments/write;Storage Account Key Operator Service Role
+I need to regenerate the access keys for the specified storage account.;Microsoft.Authorization/roleAssignments/write;Storage Account Key Operator Service Role
+I need to regenerate the access keys for the specified storage account.;Microsoft.Authorization/roleAssignments/write;Storage Account Key Operator Service Role
+I need to regenerate the access keys for the specified storage account.;Microsoft.Authorization/roleAssignments/write;Storage Account Key Operator Service Role
+I need to regenerate the access keys for the specified storage account.;Microsoft.Authorization/roleAssignments/write;Storage Account Key Operator Service Role
+I need to perform validations for cross region restore operation.;NONE;NONE
+I need to perform validations for cross region restore operation.;NONE;NONE
+I need to perform validations for cross region restore operation.;NONE;NONE
+I need to perform validations for cross region restore operation.;NONE;NONE
+I need to perform validations for cross region restore operation.;NONE;NONE
+I need to get the properties of a virtual machine.;NONE;NONE
+I need to get the properties of a virtual machine.;NONE;NONE
+I need to get the properties of a virtual machine.;NONE;NONE
+I need to get the properties of a virtual machine.;NONE;NONE
+I need to get the properties of a virtual machine.;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE
+I need to return the list of all Protected Items.;NONE;NONE
+I need to return the list of all Protected Items.;NONE;NONE
+I need to return the list of all Protected Items.;NONE;NONE
+I need to return the list of all Protected Items.;NONE;NONE
+I need to return the list of all Protected Items.;NONE;NONE
+I need to validate if a feature is supported.;NONE;NONE
+I need to validate if a feature is supported.;NONE;NONE
+I need to validate if a feature is supported.;NONE;NONE
+I need to validate if a feature is supported.;NONE;NONE
+I need to validate if a feature is supported.;NONE;NONE
+I need to list object replication policies.;NONE;NONE
+I need to list object replication policies.;NONE;NONE
+I need to list object replication policies.;NONE;NONE
+I need to list object replication policies.;NONE;NONE
+I need to list object replication policies.;NONE;NONE
+I need to return the result of adding blob content.;NONE;NONE
+I need to return the result of adding blob content.;NONE;NONE
+I need to return the result of adding blob content.;NONE;NONE
+I need to return the result of adding blob content.;NONE;NONE
+I need to return the result of adding blob content.;NONE;NONE
+I need to get Operation Result of a Patch Operation for a Backup Vault.;NONE;NONE
+I need to get Operation Result of a Patch Operation for a Backup Vault.;NONE;NONE
+I need to get Operation Result of a Patch Operation for a Backup Vault.;NONE;NONE
+I need to get Operation Result of a Patch Operation for a Backup Vault.;NONE;NONE
+I need to get Operation Result of a Patch Operation for a Backup Vault.;NONE;NONE
+I need to get list of ResourceGuards in a Subscription.;NONE;NONE
+I need to get list of ResourceGuards in a Subscription.;NONE;NONE
+I need to get list of ResourceGuards in a Subscription.;NONE;NONE
+I need to get list of ResourceGuards in a Subscription.;NONE;NONE
+I need to get list of ResourceGuards in a Subscription.;NONE;NONE
+I need to get the alerts for the Recovery services vault.;NONE;NONE
+I need to get the alerts for the Recovery services vault.;NONE;NONE
+I need to get the alerts for the Recovery services vault.;NONE;NONE
+I need to get the alerts for the Recovery services vault.;NONE;NONE
+I need to get the alerts for the Recovery services vault.;NONE;NONE
+I need to return the result of deleting a container.;NONE;NONE
+I need to return the result of deleting a container.;NONE;NONE
+I need to return the result of deleting a container.;NONE;NONE
+I need to return the result of deleting a container.;NONE;NONE
+I need to return the result of deleting a container.;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE
+I need to get the resources for the resource group.;NONE;NONE
+I need to get the resources for the resource group.;NONE;NONE
+I need to get the resources for the resource group.;NONE;NONE
+I need to get the resources for the resource group.;NONE;NONE
+I need to get the resources for the resource group.;NONE;NONE
+I need to return object details of the Protected Item.;NONE;NONE
+I need to return object details of the Protected Item.;NONE;NONE
+I need to return object details of the Protected Item.;NONE;NONE
+I need to return object details of the Protected Item.;NONE;NONE
+I need to return object details of the Protected Item.;NONE;NONE
+I need to delete the Backup Instance.;NONE;NONE
+I need to delete the Backup Instance.;NONE;NONE
+I need to delete the Backup Instance.;NONE;NONE
+I need to delete the Backup Instance.;NONE;NONE
+I need to delete the Backup Instance.;NONE;NONE
+I need to register a container with Recovery Service.;NONE;NONE
+I need to register a container with Recovery Service.;NONE;NONE
+I need to register a container with Recovery Service.;NONE;NONE
+I need to register a container with Recovery Service.;NONE;NONE
+I need to register a container with Recovery Service.;NONE;NONE
+I need to do all type of validations.;NONE;NONE
+I need to do all type of validations.;NONE;NONE
+I need to do all type of validations.;NONE;NONE
+I need to do all type of validations.;NONE;NONE
+I need to do all type of validations.;NONE;NONE
+I need to write to a blob.;BlobDataContributor;Storage Blob Data Contributor
+I need to write to a blob.;BlobDataContributor;Storage Blob Data Contributor
+I need to write to a blob.;BlobDataContributor;Storage Blob Data Contributor
+I need to write to a blob.;BlobDataContributor;Storage Blob Data Contributor
+I need to write to a blob.;BlobDataContributor;Storage Blob Data Contributor
+I need to do inquiry for workloads within a container.;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE
+I need to delete a queue.;NONE;NONE
+I need to delete a queue.;NONE;NONE
+I need to delete a queue.;NONE;NONE
+I need to delete a queue.;NONE;NONE
+I need to delete a queue.;NONE;NONE
+I need to get information about a role assignment.;NONE;NONE
+I need to get information about a role assignment.;NONE;NONE
+I need to get information about a role assignment.;NONE;NONE
+I need to get information about a role assignment.;NONE;NONE
+I need to get information about a role assignment.;NONE;NONE
+I need to return list of containers.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to return list of containers.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to return list of containers.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to return list of containers.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to return list of containers.;Storage Blob Data Reader;Storage Blob Data Reader
+I need to return the result of put blob container.;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE
+I need to create a backup Protection Intent.;NONE;NONE
+I need to create a backup Protection Intent.;NONE;NONE
+I need to create a backup Protection Intent.;NONE;NONE
+I need to create a backup Protection Intent.;NONE;NONE
+I need to create a backup Protection Intent.;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE
+I need to move the blob from one path to another.;BlobData.Move;Storage Blob Data Contributor
+I need to move the blob from one path to another.;BlobData.Move;Storage Blob Data Contributor
+I need to move the blob from one path to another.;BlobData.Move;Storage Blob Data Contributor
+I need to move the blob from one path to another.;BlobData.Move;Storage Blob Data Contributor
+I need to move the blob from one path to another.;BlobData.Move;Storage Blob Data Contributor
+I need to return the result of processing a message.;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;NONE;NONE
