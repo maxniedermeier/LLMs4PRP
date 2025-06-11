@@ -1,0 +1,501 @@
+request;permission;role;Candidate_Roles
+I need to list the access keys for the storage accounts.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to list the access keys for the storage accounts.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to list the access keys for the storage accounts.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to list the access keys for the storage accounts.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to list the access keys for the storage accounts.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need full permissions on containers.;NONE;NONE;NONE
+I need full permissions on containers.;NONE;NONE;NONE
+I need full permissions on containers.;NONE;NONE;NONE
+I need full permissions on containers.;NONE;NONE;NONE
+I need full permissions on containers.;NONE;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE;NONE
+I need to insert, merge, or replace table entities.;NONE;NONE;NONE
+I need to get a virtual network subnet definition.;Microsoft.Network/virtualNetworks/subnets/read;Avere Operator;Avere Operator(14), Avere Contributor(23)
+I need to get a virtual network subnet definition.;Microsoft.Network/virtualNetworks/subnets/read;Avere Operator;Avere Operator(14), Avere Contributor(23)
+I need to get a virtual network subnet definition.;Microsoft.Network/virtualNetworks/subnets/read;Avere Operator;Avere Operator(14), Avere Contributor(23)
+I need to get a virtual network subnet definition.;Microsoft.Network/virtualNetworks/subnets/read;Avere Operator;Avere Operator(14), Avere Contributor(23)
+I need to get a virtual network subnet definition.;Microsoft.Network/virtualNetworks/subnets/read;Avere Operator;Avere Operator(14), Avere Contributor(23)
+I need to perform Backup for Protected Item.;NONE;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE;NONE
+I need to perform Backup for Protected Item.;NONE;NONE;NONE
+I need to get Status of Policy Operation.;Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to get Status of Policy Operation.;Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to get Status of Policy Operation.;Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to get Status of Policy Operation.;Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to get Status of Policy Operation.;Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to restore Recovery Points for Protected Items.;NONE;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE;NONE
+I need to restore Recovery Points for Protected Items.;NONE;NONE;NONE
+I need to query table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to create a registered container.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Storage Account Backup Contributor(18)
+I need to create a registered container.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Storage Account Backup Contributor(18)
+I need to create a registered container.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Storage Account Backup Contributor(18)
+I need to create a registered container.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Storage Account Backup Contributor(18)
+I need to create a registered container.;Microsoft.Storage/storageAccounts/blobServices/containers/write;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Storage Account Backup Contributor(18)
+I need to write File Backup Semantics Privilege.;NONE;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE;NONE
+I need to write File Backup Semantics Privilege.;NONE;NONE;NONE
+I need to unlink a Storage account from a DataLakeAnalytics account.;Microsoft.DataLakeAnalytics/accounts/storageAccounts/Delete;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to unlink a Storage account from a DataLakeAnalytics account.;Microsoft.DataLakeAnalytics/accounts/storageAccounts/Delete;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to unlink a Storage account from a DataLakeAnalytics account.;Microsoft.DataLakeAnalytics/accounts/storageAccounts/Delete;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to unlink a Storage account from a DataLakeAnalytics account.;Microsoft.DataLakeAnalytics/accounts/storageAccounts/Delete;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to unlink a Storage account from a DataLakeAnalytics account.;Microsoft.DataLakeAnalytics/accounts/storageAccounts/Delete;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to peek a message.;Microsoft.Storage/storageAccounts/queueServices/queues/messages/read;Storage Queue Data Message Processor;Storage Queue Data Message Processor(2), Storage Queue Data Reader(2), Storage Queue Data Contributor(7)
+I need to peek a message.;Microsoft.Storage/storageAccounts/queueServices/queues/messages/read;Storage Queue Data Message Processor;Storage Queue Data Message Processor(2), Storage Queue Data Reader(2), Storage Queue Data Contributor(7)
+I need to peek a message.;Microsoft.Storage/storageAccounts/queueServices/queues/messages/read;Storage Queue Data Message Processor;Storage Queue Data Message Processor(2), Storage Queue Data Reader(2), Storage Queue Data Contributor(7)
+I need to peek a message.;Microsoft.Storage/storageAccounts/queueServices/queues/messages/read;Storage Queue Data Message Processor;Storage Queue Data Message Processor(2), Storage Queue Data Reader(2), Storage Queue Data Contributor(7)
+I need to peek a message.;Microsoft.Storage/storageAccounts/queueServices/queues/messages/read;Storage Queue Data Message Processor;Storage Queue Data Message Processor(2), Storage Queue Data Reader(2), Storage Queue Data Contributor(7)
+I need to create a Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/backup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to create a Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/backup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to create a Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/backup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to create a Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/backup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to create a Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/backup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to update an Azure resource of type 'ResourceGuard'.;Microsoft.DataProtection/subscriptions/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to update an Azure resource of type 'ResourceGuard'.;Microsoft.DataProtection/subscriptions/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to update an Azure resource of type 'ResourceGuard'.;Microsoft.DataProtection/subscriptions/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to update an Azure resource of type 'ResourceGuard'.;Microsoft.DataProtection/subscriptions/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to update an Azure resource of type 'ResourceGuard'.;Microsoft.DataProtection/subscriptions/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to return all Recovery Points.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return all Recovery Points.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return all Recovery Points.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return all Recovery Points.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return all Recovery Points.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to create and manage items which can be backed up.;Microsoft.DataProtection/*/resourceGuards/write;Backup MUA Admin;Backup MUA Admin(26)
+I need to create and manage items which can be backed up.;Microsoft.DataProtection/*/resourceGuards/write;Backup MUA Admin;Backup MUA Admin(26)
+I need to create and manage items which can be backed up.;Microsoft.DataProtection/*/resourceGuards/write;Backup MUA Admin;Backup MUA Admin(26)
+I need to create and manage items which can be backed up.;Microsoft.DataProtection/*/resourceGuards/write;Backup MUA Admin;Backup MUA Admin(26)
+I need to create and manage items which can be backed up.;Microsoft.DataProtection/*/resourceGuards/write;Backup MUA Admin;Backup MUA Admin(26)
+I need to trigger cross region restore operation on given backup instance.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to trigger cross region restore operation on given backup instance.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to trigger cross region restore operation on given backup instance.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to trigger cross region restore operation on given backup instance.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to trigger cross region restore operation on given backup instance.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to create and update a support ticket.;NONE;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE;NONE
+I need to create and update a support ticket.;NONE;NONE;NONE
+I need to get the availability statuses for all resources in the specified scope.;Microsoft.ResourceHealth/availabilityStatuses/read;Elastic SAN Reader;Elastic SAN Reader(5), Data Box Contributor(6), Elastic SAN Owner(6), Classic Storage Account Contributor(7), Storage Account Contributor(9), Data Box Reader(10), Data Lake Analytics Developer(22), Backup MUA Admin(26)
+I need to get the availability statuses for all resources in the specified scope.;Microsoft.ResourceHealth/availabilityStatuses/read;Elastic SAN Reader;Elastic SAN Reader(5), Data Box Contributor(6), Elastic SAN Owner(6), Classic Storage Account Contributor(7), Storage Account Contributor(9), Data Box Reader(10), Data Lake Analytics Developer(22), Backup MUA Admin(26)
+I need to get the availability statuses for all resources in the specified scope.;Microsoft.ResourceHealth/availabilityStatuses/read;Elastic SAN Reader;Elastic SAN Reader(5), Data Box Contributor(6), Elastic SAN Owner(6), Classic Storage Account Contributor(7), Storage Account Contributor(9), Data Box Reader(10), Data Lake Analytics Developer(22), Backup MUA Admin(26)
+I need to get the availability statuses for all resources in the specified scope.;Microsoft.ResourceHealth/availabilityStatuses/read;Elastic SAN Reader;Elastic SAN Reader(5), Data Box Contributor(6), Elastic SAN Owner(6), Classic Storage Account Contributor(7), Storage Account Contributor(9), Data Box Reader(10), Data Lake Analytics Developer(22), Backup MUA Admin(26)
+I need to get the availability statuses for all resources in the specified scope.;Microsoft.ResourceHealth/availabilityStatuses/read;Elastic SAN Reader;Elastic SAN Reader(5), Data Box Contributor(6), Elastic SAN Owner(6), Classic Storage Account Contributor(7), Storage Account Contributor(9), Data Box Reader(10), Data Lake Analytics Developer(22), Backup MUA Admin(26)
+I need to return the result of deleting a file/folder.;NONE;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE;NONE
+I need to return the result of deleting a file/folder.;NONE;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE;NONE
+I need to trigger restore on the Backup Instance.;NONE;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE;NONE
+I need to get AccessToken for Cross Region Restore.;NONE;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE;NONE
+I need to list all backup Protection Intents.;NONE;NONE;NONE
+I need to return all Job Objects.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to return all Job Objects.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to return all Job Objects.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to return all Job Objects.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to return all Job Objects.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to return Backup Operation Status for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupOperations/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return Backup Operation Status for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupOperations/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return Backup Operation Status for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupOperations/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return Backup Operation Status for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupOperations/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return Backup Operation Status for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupOperations/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to check if the requested BackupVault Name is Available.;Microsoft.DataProtection/locations/checkNameAvailability/action;Backup Contributor;Backup Contributor(86)
+I need to check if the requested BackupVault Name is Available.;Microsoft.DataProtection/locations/checkNameAvailability/action;Backup Contributor;Backup Contributor(86)
+I need to check if the requested BackupVault Name is Available.;Microsoft.DataProtection/locations/checkNameAvailability/action;Backup Contributor;Backup Contributor(86)
+I need to check if the requested BackupVault Name is Available.;Microsoft.DataProtection/locations/checkNameAvailability/action;Backup Contributor;Backup Contributor(86)
+I need to check if the requested BackupVault Name is Available.;Microsoft.DataProtection/locations/checkNameAvailability/action;Backup Contributor;Backup Contributor(86)
+I need to create and manage registered identities.;Microsoft.RecoveryServices/Vaults/registeredIdentities/*;Backup Contributor;Backup Contributor(86)
+I need to create and manage registered identities.;Microsoft.RecoveryServices/Vaults/registeredIdentities/*;Backup Contributor;Backup Contributor(86)
+I need to create and manage registered identities.;Microsoft.RecoveryServices/Vaults/registeredIdentities/*;Backup Contributor;Backup Contributor(86)
+I need to create and manage registered identities.;Microsoft.RecoveryServices/Vaults/registeredIdentities/*;Backup Contributor;Backup Contributor(86)
+I need to create and manage registered identities.;Microsoft.RecoveryServices/Vaults/registeredIdentities/*;Backup Contributor;Backup Contributor(86)
+I need full permissions on blobs.;NONE;NONE;NONE
+I need full permissions on blobs.;NONE;NONE;NONE
+I need full permissions on blobs.;NONE;NONE;NONE
+I need full permissions on blobs.;NONE;NONE;NONE
+I need full permissions on blobs.;NONE;NONE;NONE
+I need to delete a blob.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Avere Contributor(23)
+I need to delete a blob.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Avere Contributor(23)
+I need to delete a blob.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Avere Contributor(23)
+I need to delete a blob.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Avere Contributor(23)
+I need to delete a blob.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14), Avere Contributor(23)
+I need to modify a container's metadata or properties.;NONE;NONE;NONE
+I need to modify a container's metadata or properties.;NONE;NONE;NONE
+I need to modify a container's metadata or properties.;NONE;NONE;NONE
+I need to modify a container's metadata or properties.;NONE;NONE;NONE
+I need to modify a container's metadata or properties.;NONE;NONE;NONE
+I need to export Jobs.;Microsoft.RecoveryServices/Vaults/backupJobsExport/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to export Jobs.;Microsoft.RecoveryServices/Vaults/backupJobsExport/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to export Jobs.;Microsoft.RecoveryServices/Vaults/backupJobsExport/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to export Jobs.;Microsoft.RecoveryServices/Vaults/backupJobsExport/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to export Jobs.;Microsoft.RecoveryServices/Vaults/backupJobsExport/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list soft-deleted Backup Instances in a Backup Vault.;Microsoft.DataProtection/backupVaults/deletedBackupInstances/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list soft-deleted Backup Instances in a Backup Vault.;Microsoft.DataProtection/backupVaults/deletedBackupInstances/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list soft-deleted Backup Instances in a Backup Vault.;Microsoft.DataProtection/backupVaults/deletedBackupInstances/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list soft-deleted Backup Instances in a Backup Vault.;Microsoft.DataProtection/backupVaults/deletedBackupInstances/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list soft-deleted Backup Instances in a Backup Vault.;Microsoft.DataProtection/backupVaults/deletedBackupInstances/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.RecoveryServices/Vaults/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.RecoveryServices/Vaults/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.RecoveryServices/Vaults/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.RecoveryServices/Vaults/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get list of Backup Vaults in a Resource Group.;Microsoft.RecoveryServices/Vaults/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return the result of reading blob tags.;NONE;NONE;NONE
+I need to return the result of reading blob tags.;NONE;NONE;NONE
+I need to return the result of reading blob tags.;NONE;NONE;NONE
+I need to return the result of reading blob tags.;NONE;NONE;NONE
+I need to return the result of reading blob tags.;NONE;NONE;NONE
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return summaries for Protected Items and Protected Servers for a Recovery Services .;Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to delete the Backup Policy.;Microsoft.DataProtection/backupVaults/backupPolicies/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Policy.;Microsoft.DataProtection/backupVaults/backupPolicies/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Policy.;Microsoft.DataProtection/backupVaults/backupPolicies/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Policy.;Microsoft.DataProtection/backupVaults/backupPolicies/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Policy.;Microsoft.DataProtection/backupVaults/backupPolicies/delete;Backup Contributor;Backup Contributor(86)
+I need to read roles and role assignments.;Microsoft.Authorization/roleDefinitions/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to read roles and role assignments.;Microsoft.Authorization/roleDefinitions/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to read roles and role assignments.;Microsoft.Authorization/roleDefinitions/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to read roles and role assignments.;Microsoft.Authorization/roleDefinitions/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to read roles and role assignments.;Microsoft.Authorization/roleDefinitions/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to return all registered containers.;NONE;NONE;NONE
+I need to return all registered containers.;NONE;NONE;NONE
+I need to return all registered containers.;NONE;NONE;NONE
+I need to return all registered containers.;NONE;NONE;NONE
+I need to return all registered containers.;NONE;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE;NONE
+I need to create and manage usage of Recovery Services vault.;NONE;NONE;NONE
+I need to get information about a role definition.;NONE;NONE;NONE
+I need to get information about a role definition.;NONE;NONE;NONE
+I need to get information about a role definition.;NONE;NONE;NONE
+I need to get information about a role definition.;NONE;NONE;NONE
+I need to get information about a role definition.;NONE;NONE;NONE
+I need to list the unencrypted credentials related to the order.;NONE;NONE;NONE
+I need to list the unencrypted credentials related to the order.;NONE;NONE;NONE
+I need to list the unencrypted credentials related to the order.;NONE;NONE;NONE
+I need to list the unencrypted credentials related to the order.;NONE;NONE;NONE
+I need to list the unencrypted credentials related to the order.;NONE;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE;NONE
+I need to create and manage extended info related to vault.;NONE;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE;NONE
+I need to return a blob or a list of blobs.;NONE;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE;NONE
+I need to manage results of operation on backup management.;NONE;NONE;NONE
+I need to delete one or more messages from a queue.;NONE;NONE;NONE
+I need to delete one or more messages from a queue.;NONE;NONE;NONE
+I need to delete one or more messages from a queue.;NONE;NONE;NONE
+I need to delete one or more messages from a queue.;NONE;NONE;NONE
+I need to delete one or more messages from a queue.;NONE;NONE;NONE
+I need to get a network interface definition.;Microsoft.Network/networkInterfaces/read;Avere Operator;Avere Operator(14)
+I need to get a network interface definition.;Microsoft.Network/networkInterfaces/read;Avere Operator;Avere Operator(14)
+I need to get a network interface definition.;Microsoft.Network/networkInterfaces/read;Avere Operator;Avere Operator(14)
+I need to get a network interface definition.;Microsoft.Network/networkInterfaces/read;Avere Operator;Avere Operator(14)
+I need to get a network interface definition.;Microsoft.Network/networkInterfaces/read;Avere Operator;Avere Operator(14)
+I need to update an Azure resource of type 'Backup Vault'.;NONE;NONE;NONE
+I need to update an Azure resource of type 'Backup Vault'.;NONE;NONE;NONE
+I need to update an Azure resource of type 'Backup Vault'.;NONE;NONE;NONE
+I need to update an Azure resource of type 'Backup Vault'.;NONE;NONE;NONE
+I need to update an Azure resource of type 'Backup Vault'.;NONE;NONE;NONE
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to query tables.;Microsoft.Storage/storageAccounts/tableServices/tables/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query tables.;Microsoft.Storage/storageAccounts/tableServices/tables/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query tables.;Microsoft.Storage/storageAccounts/tableServices/tables/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query tables.;Microsoft.Storage/storageAccounts/tableServices/tables/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to query tables.;Microsoft.Storage/storageAccounts/tableServices/tables/read;Storage Table Data Reader;Storage Table Data Reader(2), Storage Table Data Contributor(8)
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE;NONE
+I need to get the feature of a subscription in a given resource provider.;NONE;NONE;NONE
+I need to delete tables.;Microsoft.Storage/storageAccounts/tableServices/tables/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete tables.;Microsoft.Storage/storageAccounts/tableServices/tables/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete tables.;Microsoft.Storage/storageAccounts/tableServices/tables/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete tables.;Microsoft.Storage/storageAccounts/tableServices/tables/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete tables.;Microsoft.Storage/storageAccounts/tableServices/tables/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to resolve the alert.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to resolve the alert.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to resolve the alert.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to resolve the alert.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to resolve the alert.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE;NONE
+I need to get Result of Operation Performed on Protected Items.;NONE;NONE;NONE
+I need to modify queue metadata or properties.;Microsoft.Storage/storageAccounts/queueServices/queues/write;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to modify queue metadata or properties.;Microsoft.Storage/storageAccounts/queueServices/queues/write;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to modify queue metadata or properties.;Microsoft.Storage/storageAccounts/queueServices/queues/write;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to modify queue metadata or properties.;Microsoft.Storage/storageAccounts/queueServices/queues/write;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to modify queue metadata or properties.;Microsoft.Storage/storageAccounts/queueServices/queues/write;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked Storage account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE;NONE
+I need to create, update, or read the diagnostic setting for Analysis Server.;NONE;NONE;NONE
+I need to return the list of available skus.;NONE;NONE;NONE
+I need to return the list of available skus.;NONE;NONE;NONE
+I need to return the list of available skus.;NONE;NONE;NONE
+I need to return the list of available skus.;NONE;NONE;NONE
+I need to return the list of available skus.;NONE;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to unlink a DataLakeStore account from a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to return Storage Configuration for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupstorageconfig/read;Backup Reader;Backup Reader(68)
+I need to return Storage Configuration for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupstorageconfig/read;Backup Reader;Backup Reader(68)
+I need to return Storage Configuration for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupstorageconfig/read;Backup Reader;Backup Reader(68)
+I need to return Storage Configuration for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupstorageconfig/read;Backup Reader;Backup Reader(68)
+I need to return Storage Configuration for Recovery Services Vault.;Microsoft.RecoveryServices/Vaults/backupstorageconfig/read;Backup Reader;Backup Reader(68)
+I need to return all containers belonging to the subscription.;NONE;NONE;NONE
+I need to return all containers belonging to the subscription.;NONE;NONE;NONE
+I need to return all containers belonging to the subscription.;NONE;NONE;NONE
+I need to return all containers belonging to the subscription.;NONE;NONE;NONE
+I need to return all containers belonging to the subscription.;NONE;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to delete a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to get ResourceGuard default operation request info.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get ResourceGuard default operation request info.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get ResourceGuard default operation request info.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get ResourceGuard default operation request info.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get ResourceGuard default operation request info.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to delete table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to delete table entities.;Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete;Storage Table Data Contributor;Storage Table Data Contributor(8)
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE;NONE
+I need to validate the shipping address and provide alternate addresses if any.;NONE;NONE;NONE
+I need to return status of the operation.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return status of the operation.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return status of the operation.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return status of the operation.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return status of the operation.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationsStatus/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to validate for backup of Backup Instance.;Microsoft.DataProtection/backupVaults/validateForBackup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate for backup of Backup Instance.;Microsoft.DataProtection/backupVaults/validateForBackup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate for backup of Backup Instance.;Microsoft.DataProtection/backupVaults/validateForBackup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate for backup of Backup Instance.;Microsoft.DataProtection/backupVaults/validateForBackup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate for backup of Backup Instance.;Microsoft.DataProtection/backupVaults/validateForBackup/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to find Restorable Time Ranges.;NONE;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE;NONE
+I need to find Restorable Time Ranges.;NONE;NONE;NONE
+I need to perform Backup on the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to perform Backup on the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to perform Backup on the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to perform Backup on the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to perform Backup on the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/write;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to create or update a compute policy.;Microsoft.DataLakeAnalytics/accounts/computePolicies/Write;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to create or update a compute policy.;Microsoft.DataLakeAnalytics/accounts/computePolicies/Write;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to create or update a compute policy.;Microsoft.DataLakeAnalytics/accounts/computePolicies/Write;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to create or update a compute policy.;Microsoft.DataLakeAnalytics/accounts/computePolicies/Write;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to create or update a compute policy.;Microsoft.DataLakeAnalytics/accounts/computePolicies/Write;Data Lake Analytics Developer;Data Lake Analytics Developer(22)
+I need to return the Account SAS token for the specified storage account.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to return the Account SAS token for the specified storage account.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to return the Account SAS token for the specified storage account.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to return the Account SAS token for the specified storage account.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to return the Account SAS token for the specified storage account.;Microsoft.Storage/storageAccounts/listkeys/action;Storage Account Key Operator Service Role;Storage Account Key Operator Service Role(2), Reader and Data Access(3)
+I need to regenerate the access keys for the specified storage account.;NONE;NONE;NONE
+I need to regenerate the access keys for the specified storage account.;NONE;NONE;NONE
+I need to regenerate the access keys for the specified storage account.;NONE;NONE;NONE
+I need to regenerate the access keys for the specified storage account.;NONE;NONE;NONE
+I need to regenerate the access keys for the specified storage account.;NONE;NONE;NONE
+I need to perform validations for cross region restore operation.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to perform validations for cross region restore operation.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to perform validations for cross region restore operation.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to perform validations for cross region restore operation.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to perform validations for cross region restore operation.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action;Backup Contributor;Backup Contributor(86), Backup Operator(102)
+I need to get the properties of a virtual machine.;Microsoft.Compute/virtualMachines/read;Avere Operator;Avere Operator(14)
+I need to get the properties of a virtual machine.;Microsoft.Compute/virtualMachines/read;Avere Operator;Avere Operator(14)
+I need to get the properties of a virtual machine.;Microsoft.Compute/virtualMachines/read;Avere Operator;Avere Operator(14)
+I need to get the properties of a virtual machine.;Microsoft.Compute/virtualMachines/read;Avere Operator;Avere Operator(14)
+I need to get the properties of a virtual machine.;Microsoft.Compute/virtualMachines/read;Avere Operator;Avere Operator(14)
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE;NONE
+I need to return CRR Operation Status for Recovery Services Vault.;NONE;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE;NONE
+I need to create and manage a deployment.;NONE;NONE;NONE
+I need to return the list of all Protected Items.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return the list of all Protected Items.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return the list of all Protected Items.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return the list of all Protected Items.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return the list of all Protected Items.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to validate if a feature is supported.;Microsoft.DataProtection/locations/checkFeatureSupport/action;Backup MUA Admin;Backup MUA Admin(26), Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate if a feature is supported.;Microsoft.DataProtection/locations/checkFeatureSupport/action;Backup MUA Admin;Backup MUA Admin(26), Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate if a feature is supported.;Microsoft.DataProtection/locations/checkFeatureSupport/action;Backup MUA Admin;Backup MUA Admin(26), Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate if a feature is supported.;Microsoft.DataProtection/locations/checkFeatureSupport/action;Backup MUA Admin;Backup MUA Admin(26), Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to validate if a feature is supported.;Microsoft.DataProtection/locations/checkFeatureSupport/action;Backup MUA Admin;Backup MUA Admin(26), Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list object replication policies.;Microsoft.Storage/storageAccounts/objectReplicationPolicies/read;Storage Account Backup Contributor;Storage Account Backup Contributor(18)
+I need to list object replication policies.;Microsoft.Storage/storageAccounts/objectReplicationPolicies/read;Storage Account Backup Contributor;Storage Account Backup Contributor(18)
+I need to list object replication policies.;Microsoft.Storage/storageAccounts/objectReplicationPolicies/read;Storage Account Backup Contributor;Storage Account Backup Contributor(18)
+I need to list object replication policies.;Microsoft.Storage/storageAccounts/objectReplicationPolicies/read;Storage Account Backup Contributor;Storage Account Backup Contributor(18)
+I need to list object replication policies.;Microsoft.Storage/storageAccounts/objectReplicationPolicies/read;Storage Account Backup Contributor;Storage Account Backup Contributor(18)
+I need to return the result of adding blob content.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to return the result of adding blob content.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to return the result of adding blob content.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to return the result of adding blob content.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to return the result of adding blob content.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to get Operation Result of a Patch Operation for a Backup Vault.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to get Operation Result of a Patch Operation for a Backup Vault.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to get Operation Result of a Patch Operation for a Backup Vault.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to get Operation Result of a Patch Operation for a Backup Vault.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to get Operation Result of a Patch Operation for a Backup Vault.;Microsoft.RecoveryServices/Vaults/backupOperationResults/read;Backup Reader;Backup Reader(68)
+I need to get list of ResourceGuards in a Subscription.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get list of ResourceGuards in a Subscription.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get list of ResourceGuards in a Subscription.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get list of ResourceGuards in a Subscription.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get list of ResourceGuards in a Subscription.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/read;Backup MUA Admin;Backup MUA Admin(26)
+I need to get the alerts for the Recovery services vault.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get the alerts for the Recovery services vault.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get the alerts for the Recovery services vault.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get the alerts for the Recovery services vault.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to get the alerts for the Recovery services vault.;Microsoft.RecoveryServices/Vaults/monitoringAlerts/read;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to return the result of deleting a container.;Microsoft.Storage/storageAccounts/blobServices/containers/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14)
+I need to return the result of deleting a container.;Microsoft.Storage/storageAccounts/blobServices/containers/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14)
+I need to return the result of deleting a container.;Microsoft.Storage/storageAccounts/blobServices/containers/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14)
+I need to return the result of deleting a container.;Microsoft.Storage/storageAccounts/blobServices/containers/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14)
+I need to return the result of deleting a container.;Microsoft.Storage/storageAccounts/blobServices/containers/delete;Storage Blob Data Contributor;Storage Blob Data Contributor(9), Avere Operator(14)
+I need to return the configurations for the region.;NONE;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE;NONE
+I need to return the configurations for the region.;NONE;NONE;NONE
+I need to get the resources for the resource group.;Microsoft.Resources/subscriptions/resourceGroups/resources/read;Avere Contributor;Avere Contributor(23)
+I need to get the resources for the resource group.;Microsoft.Resources/subscriptions/resourceGroups/resources/read;Avere Contributor;Avere Contributor(23)
+I need to get the resources for the resource group.;Microsoft.Resources/subscriptions/resourceGroups/resources/read;Avere Contributor;Avere Contributor(23)
+I need to get the resources for the resource group.;Microsoft.Resources/subscriptions/resourceGroups/resources/read;Avere Contributor;Avere Contributor(23)
+I need to get the resources for the resource group.;Microsoft.Resources/subscriptions/resourceGroups/resources/read;Avere Contributor;Avere Contributor(23)
+I need to return object details of the Protected Item.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return object details of the Protected Item.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return object details of the Protected Item.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return object details of the Protected Item.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to return object details of the Protected Item.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read;Backup Reader;Backup Reader(68), Backup Operator(102)
+I need to delete the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/delete;Backup Contributor;Backup Contributor(86)
+I need to delete the Backup Instance.;Microsoft.DataProtection/backupVaults/backupInstances/delete;Backup Contributor;Backup Contributor(86)
+I need to register a container with Recovery Service.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*;Backup Contributor;Backup Contributor(86)
+I need to register a container with Recovery Service.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*;Backup Contributor;Backup Contributor(86)
+I need to register a container with Recovery Service.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*;Backup Contributor;Backup Contributor(86)
+I need to register a container with Recovery Service.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*;Backup Contributor;Backup Contributor(86)
+I need to register a container with Recovery Service.;Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/*;Backup Contributor;Backup Contributor(86)
+I need to do all type of validations.;NONE;NONE;NONE
+I need to do all type of validations.;NONE;NONE;NONE
+I need to do all type of validations.;NONE;NONE;NONE
+I need to do all type of validations.;NONE;NONE;NONE
+I need to do all type of validations.;NONE;NONE;NONE
+I need to write to a blob.;NONE;NONE;NONE
+I need to write to a blob.;NONE;NONE;NONE
+I need to write to a blob.;NONE;NONE;NONE
+I need to write to a blob.;NONE;NONE;NONE
+I need to write to a blob.;NONE;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE;NONE
+I need to do inquiry for workloads within a container.;NONE;NONE;NONE
+I need to delete a queue.;Microsoft.Storage/storageAccounts/queueServices/queues/delete;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to delete a queue.;Microsoft.Storage/storageAccounts/queueServices/queues/delete;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to delete a queue.;Microsoft.Storage/storageAccounts/queueServices/queues/delete;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to delete a queue.;Microsoft.Storage/storageAccounts/queueServices/queues/delete;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to delete a queue.;Microsoft.Storage/storageAccounts/queueServices/queues/delete;Storage Queue Data Contributor;Storage Queue Data Contributor(7)
+I need to get information about a role assignment.;Microsoft.Authorization/roleAssignments/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to get information about a role assignment.;Microsoft.Authorization/roleAssignments/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to get information about a role assignment.;Microsoft.Authorization/roleAssignments/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to get information about a role assignment.;Microsoft.Authorization/roleAssignments/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to get information about a role assignment.;Microsoft.Authorization/roleAssignments/read;Elastic SAN Volume Group Owner;Elastic SAN Volume Group Owner(4), Elastic SAN Reader(5)
+I need to return list of containers.;NONE;NONE;NONE
+I need to return list of containers.;NONE;NONE;NONE
+I need to return list of containers.;NONE;NONE;NONE
+I need to return list of containers.;NONE;NONE;NONE
+I need to return list of containers.;NONE;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE;NONE
+I need to return the result of put blob container.;NONE;NONE;NONE
+I need to create a backup Protection Intent.;Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write;Backup Operator;Backup Operator(102)
+I need to create a backup Protection Intent.;Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write;Backup Operator;Backup Operator(102)
+I need to create a backup Protection Intent.;Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write;Backup Operator;Backup Operator(102)
+I need to create a backup Protection Intent.;Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write;Backup Operator;Backup Operator(102)
+I need to create a backup Protection Intent.;Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write;Backup Operator;Backup Operator(102)
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to create or update a linked DataLakeStore account of a DataLakeAnalytics account.;NONE;NONE;NONE
+I need to move the blob from one path to another.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to move the blob from one path to another.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to move the blob from one path to another.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to move the blob from one path to another.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to move the blob from one path to another.;Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action;Storage Blob Data Contributor;Storage Blob Data Contributor(9)
+I need to return the result of processing a message.;NONE;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE;NONE
+I need to return the result of processing a message.;NONE;NONE;NONE
+I need to list cross region restore jobs of backup instance from secondary region.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list cross region restore jobs of backup instance from secondary region.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list cross region restore jobs of backup instance from secondary region.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list cross region restore jobs of backup instance from secondary region.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
+I need to list cross region restore jobs of backup instance from secondary region.;Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action;Backup Reader;Backup Reader(68), Backup Contributor(86), Backup Operator(102)
