@@ -40,7 +40,9 @@ These two JSON-structured text files represent role-to-permission mappings from 
 - *ED_Entra.txt* contains the **Microsoft Entra built-in roles**.
 - *ED_AzureStorage.txt* contains the **Azure built-in roles for Storage**.
 
-These files were used as document embeddings provided to LLMs in some experiments.
+These files were used...
+- as document embeddings provided to LLMs in some experiments.
+- in the FindRole algorithm, to find a role that contains the translated permission.
 
 ### Outputs and Evaluation (see /src/output)
 
@@ -58,10 +60,16 @@ Each file contains a ground-truth mapping between user prompts and the correspon
 ### Evaluation Scripts (see /src/evaluation_scripts)
 
 Python scripts which helped us to evaluate the performance of the LLM predictions. The specific evaluation metrics are described in Section 3 of the paper.
+Note that:
 
+- the Hallucination_Calculator.py, Modesty_Calculator.py and Precision_Calculator.py directly output values over the command line.
+- the RoleSize_Creator.py is a helper function that creates new csv files, required for the Polp_Calculator.py
+- the PA_Calculator.py and RA_Calculator.py create a new csv file per run. We calculated the exact results using Microsoft Excel calculations. -> We count True values and then divide the result by the total number of rows).
+- the Polp_Calculator.py also creates a new csv file per run. This script requires you to run the RA_Calculator and the RoleSize_Creator.py in advance. We calculated the exact results using Microsoft Excel calculations. -> For each role-accurate row, calculate (A) the suggested_role_size - 1 and (B) the smallest_fitting_role_size - 1. Then, sum up all values of (A) and (B) independently and divide the sum of (A) through the sum of (B) values.
+ 
 ### FindRole (see /src/FindRole)
 
-Includes a Python script that implement the FindRole Algorithm as introduced in Subsection 5.1.
+Includes a Python script that implements the FindRole Algorithm as introduced in Subsection 5.1.
 
 ## Licensing and Attribution
 
