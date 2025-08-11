@@ -10,7 +10,7 @@ Guidelines:
 
 Output only one line in the exact format above. Do not add any additional explanation, commentary, or formatting.
 
-Translate the user request into the correct technical permission name.
+Translate the user request into the correct technical permission name that is listed in the Storage domain of the Azure built-in roles.
 
 Recommend a role that contains this permission based on the Storage domain of the Azure built-in roles. Do not suggest any other roles.
 
