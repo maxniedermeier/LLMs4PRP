@@ -2,16 +2,18 @@ import csv
 import json
 
 # Load file: role-to-size mapping (normalize keys to lowercase for comparison)
-# Important: You need to run RoleSize_Creator first, in order to be able to open the respective file here
+# RoleSizes_AzureStorage.csv or RoleSizes_Entra.csv
+# Important: You need to run RoleSize_Creator.py first, in order to be able to open the respective file here
 role_sizes = {}
-with open("<role sizes file>.csv", newline='', encoding='utf-8') as f:
+with open("RoleSizes_YYY.csv", newline='', encoding='utf-8') as f:
     reader = csv.DictReader(f, delimiter=';')
     for row in reader:
         role_sizes[row['role'].strip().lower()] = int(row['size'])
 
 # Load the JSON file: role-to-permissions (normalize both role and permissions to lowercase)
+# ED_AzureStorage.txt or ED_Entra.txt
 role_permissions = {}
-with open("<ED document name>.txt", encoding='utf-8') as f:
+with open("ED_YYY.txt", encoding='utf-8') as f:
     data = json.load(f)
     for item in data:
         role = item['role'].strip().lower()
@@ -25,9 +27,9 @@ for role, perms in role_permissions.items():
         permission_to_roles.setdefault(perm, set()).add(role)
 
 # Process file and augment with new columns
-# Important: You need to run the RA_Calculator first, in order to to able to open and augment the respective file here
+# Important: You need to run the RA_Calculator.py first, in order to to able to open and augment the respective file here
 output_rows = []
-with open("<role accuracy file>.csv", newline='', encoding='utf-8') as f:
+with open("RoleAccuracy_EX.csv", newline='', encoding='utf-8') as f:
     reader = csv.DictReader(f, delimiter=';')
     for row in reader:
         original_role = row['role']
@@ -58,7 +60,7 @@ with open("<role accuracy file>.csv", newline='', encoding='utf-8') as f:
         output_rows.append(row)
 
 # Write output CSV with original structure + 3 new columns
-with open("<output>.csv", "w", newline='', encoding='utf-8') as f:
+with open("Polp_EX.csv", "w", newline='', encoding='utf-8') as f:
     fieldnames = ['request', 'role', 'correct_permission', 'is_correct',
                   'suggested_role_size', 'smallest_fitting_role', 'smallest_fitting_role_size']
     writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=';')

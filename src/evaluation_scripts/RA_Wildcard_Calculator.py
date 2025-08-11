@@ -1,5 +1,6 @@
 import csv
 import json
+import fnmatch
 
 # Load the solution CSV
 def load_solution(path):
@@ -32,9 +33,30 @@ def load_generated(path):
             for row in reader
         ]
 
-# Check if permission is in the role's permissions
+# Exact match
 def permission_in_role(permission_lc, role_permissions):
     return permission_lc in role_permissions
+
+# Wildcard match using * or allEntities/allProperties/allTasks
+def wildcard_covers_permission(wildcard_perm, required_perm):
+    if '*' in wildcard_perm:
+        return fnmatch.fnmatchcase(required_perm, wildcard_perm)
+    return match_single_custom_permission(wildcard_perm, required_perm)
+
+# Match for allEntities, allProperties, allTasks
+def match_single_custom_permission(wildcard_perm, required_perm):
+    wildcard_parts = wildcard_perm.lower().split('/')
+    required_parts = required_perm.lower().split('/')
+
+    if len(wildcard_parts) != len(required_parts):
+        return False
+
+    for w, r in zip(wildcard_parts, required_parts):
+        if w in {"allentities", "allproperties", "alltasks"}:
+            continue  # wildcard match
+        if w != r:
+            return False
+    return True
 
 # Main validation and export function
 def validate_and_export(generated_path, solution_path, roles_json_path, output_path):
@@ -56,12 +78,24 @@ def validate_and_export(generated_path, solution_path, roles_json_path, output_p
 
             original_prompt, correct_permission, correct_permission_lc = solution[key]
             permissions = role_permissions.get(role_key, set())
-            is_correct = permission_in_role(correct_permission_lc, permissions)
-            writer.writerow([request, proposed_role, correct_permission, is_correct])
 
-# Example usage
-validate_and_export("Output_EX.csv", "SolutionMapping_YYY.csv", "ED_YYY.txt", "RoleAccuracy_EX.csv")
-# 1st parameter: LLM-generated output as input, e.g. Output_E1.csv
-# 2nd parameter: A request-to-permission file -> SolutionMapping_AzureStorge.csv or SolutionMapping_Entra.csv
-# 3rd parameter: JSON-structured ED document -> ED_AzureStorage.txt or ED_Entra.txt
-# 4th parameter: New output file
+            # Default: exact match check
+            if permission_in_role(correct_permission_lc, permissions):
+                result = 'True'
+            else:
+                # Check if any wildcard permission covers it
+                result = 'False'
+                for perm in permissions:
+                    if wildcard_covers_permission(perm, correct_permission_lc):
+                        result = 'True_Wildcard'
+                        break
+
+            writer.writerow([request, proposed_role, correct_permission, result])
+
+# === Run it ===
+validate_and_export(
+    "Output_EX.csv",                     # LLM-generated output as input, e.g. Output_E1.csv
+    "SolutionMapping_YYY.csv",           # prompt-to-request solution mapping, SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
+    "ED_YYY.txt",                        # JSON-structured Enterprise Document, ED_AzureStorage.txt or ED_Entra.txt
+    "RoleAccuracy_Wildcards_EX.csv"      # Output file
+)

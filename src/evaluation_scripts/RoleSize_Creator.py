@@ -1,12 +1,12 @@
 import json
 import csv
 
-# Load JSON data from a file
-with open('<ED document name>.txt', 'r') as f:
+# Load JSON data from a file, ED_AzureStorage.txt or ED_Entra.txt
+with open('ED_YYY.txt', 'r') as f:
     data = json.load(f)
 
 # Open CSV file for writing
-with open('<output>.csv', 'w', newline='') as csvfile:
+with open('RoleSizes_YYY.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=';')
     writer.writerow(['role', 'size'])  # Header row
 
