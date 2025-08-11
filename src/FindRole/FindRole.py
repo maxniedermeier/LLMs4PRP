@@ -5,8 +5,8 @@ import csv
 # False means searching for the largest role containing the translated permission
 # True means searching for the smallest role containing the translated permission
 POLP = False
-# Load roles JSON
-with open("<ED document name>.txt", "r") as f:
+# Load roles JSON, either use ED_AzureStorage.txt or ED_Entra.txt
+with open("ED_YYY.txt", "r") as f:
     roles_data = json.load(f)
 
 # roles_data format:
@@ -16,8 +16,8 @@ with open("<ED document name>.txt", "r") as f:
 # ]
 
 # Define input and output files
-input_csv = "<input>.csv" # LLM-Only output file, but with the suggested role removed
-output_csv = "<output>.csv"
+input_csv = "Output_EX_NoRole.csv" # LLM-Only output file, but with the suggested role removed!!
+output_csv = "Output_EXH_ZZZ.csv" # New output file, e.g. Output_E1H_MIN
 
 with open(input_csv, newline='', encoding="utf-8") as infile, open(output_csv, "w", newline='', encoding="utf-8") as outfile:
     reader = csv.DictReader(infile, delimiter=';')
