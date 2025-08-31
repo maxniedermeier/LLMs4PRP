@@ -1,9 +1,9 @@
 import csv
 
 # File paths
-input_file = 'Output_EX.csv' # LLM-generated output as input, e.g. Output_E1.csv
-solution_file = 'SolutionMapping_YYY.csv' # Use a request-to-permission file here, either SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
-output_file = 'Accuracy_EX.csv'  # Save output file and **manually check accuracy values**
+input_file = '../../data/output/LLM-Only/Output_EX.csv' # LLM-generated output as input, e.g. Output_E1.csv
+solution_file = '../../data/request_permission_mappings/SolutionMapping_YYY.csv' # Use a request-to-permission file here, either SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
+output_file = '../../data/output/LLM-Only/Accuracy_EX.csv'  # Save output file and **manually check accuracy values**
 
 # Read the solution file and build a mapping: request -> correct permission
 solution_map = {}
