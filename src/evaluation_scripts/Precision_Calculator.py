@@ -2,7 +2,7 @@ import pandas as pd
 from collections import Counter
 
 # Read the CSV file
-df = pd.read_csv('Output_E1.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E1.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -28,7 +28,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E2.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E2.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -54,7 +54,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E3.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E3.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -80,7 +80,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E4.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E4.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -106,7 +106,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E5.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E5.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -132,7 +132,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E6.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E6.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -158,7 +158,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E7.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E7.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -184,7 +184,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E8.csv', delimiter=';')
+df = pd.read_csv('../../data/output/LLM-Only/Output_E8.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -214,7 +214,7 @@ print(f"Precision Ratio: {role_sum/100}")
 ###################################################
 
 # Read the CSV file
-df = pd.read_csv('Output_E1H_MIN.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E1H_MIN.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -240,7 +240,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E1H_MAX.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E1H_MAX.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -266,7 +266,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E2H_MIN.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E2H_MIN.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -292,7 +292,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E2H_MAX.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E2H_MAX.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -318,7 +318,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E5H_MIN.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E5H_MIN.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -344,7 +344,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E5H_MAX.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E5H_MAX.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -370,7 +370,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E6H_MIN.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E6H_MIN.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
@@ -396,7 +396,7 @@ print(f"Precision Ratio: {permission_sum/100}")
 print(f"Precision Ratio: {role_sum/100}")
 
 # Read the CSV file
-df = pd.read_csv('Output_E6H_MAX.csv', delimiter=';')
+df = pd.read_csv('../../data/output/Hybrid/Output_E6H_MAX.csv', delimiter=';')
 
 # Initialize sums
 permission_sum = 0
