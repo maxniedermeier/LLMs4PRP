@@ -3,8 +3,8 @@ import json
 import sys
 
 # File paths
-csv_file_path = "Output_E1.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E1.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -65,8 +65,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E2.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E2.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -127,8 +127,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E3.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E3.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -189,8 +189,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E4.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E4.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -251,8 +251,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E5.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E5.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -313,8 +313,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E6.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E6.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -375,8 +375,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E7.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E7.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -437,8 +437,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E8.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/LLM-Only/Output_E8.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -503,8 +503,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
 ###################################################
 
 # File paths
-csv_file_path = "Output_E1H_MIN.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E1H_MIN.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -565,8 +565,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E1H_MAX.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E1H_MAX.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -627,8 +627,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E2H_MIN.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E2H_MIN.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -689,8 +689,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E2H_MAX.csv"
-json_file_path = "ED_AzureStorage.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E2H_MAX.csv"
+json_file_path = "../../data/RBAC_structure/ED_AzureStorage.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -751,8 +751,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E5H_MIN.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E5H_MIN.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -813,8 +813,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E5H_MAX.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E5H_MAX.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -875,8 +875,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E6H_MIN.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E6H_MIN.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
@@ -937,8 +937,8 @@ for r in sorted(invalid_roles, key=lambda x: x.lower()):
     print(f"- {r}")
     
 # File paths
-csv_file_path = "Output_E6H_MAX.csv"
-json_file_path = "ED_Entra.txt"
+csv_file_path = "../../data/output/Hybrid/Output_E6H_MAX.csv"
+json_file_path = "../../data/RBAC_structure/ED_Entra.txt"
 
 # Load roles and permissions from JSON
 try:
