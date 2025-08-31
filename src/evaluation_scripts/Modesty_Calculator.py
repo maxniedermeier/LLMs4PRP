@@ -5,7 +5,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E1.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E1.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -24,7 +24,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E2.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E2.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -43,7 +43,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E3.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E3.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -62,7 +62,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E4.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E4.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -81,7 +81,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E5.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E5.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -100,7 +100,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E6.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E6.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -119,7 +119,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E7.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E7.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -138,7 +138,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E8.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/LLM-Only/Output_E8.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -161,7 +161,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E1H_MIN.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E1H_MIN.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -180,7 +180,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E1H_MAX.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E1H_MAX.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -199,7 +199,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E2H_MIN.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E2H_MIN.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -218,7 +218,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E2H_MAX.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E2H_MAX.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -237,7 +237,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E5H_MIN.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E5H_MIN.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -256,7 +256,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E5H_MAX.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E5H_MAX.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -275,7 +275,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E6H_MIN.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E6H_MIN.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
@@ -294,7 +294,7 @@ none_in_permission = 0
 none_in_role = 0
 
 # Open the CSV file
-with open('Output_E6H_MAX.csv', mode='r', encoding='utf-8') as file:
+with open('../../data/output/Hybrid/Output_E6H_MAX.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file, delimiter=';')  # delimiter is ;
     
     for row in reader:
