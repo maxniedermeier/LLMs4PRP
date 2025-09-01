@@ -52,6 +52,6 @@ def analyze_csv(csv_file, mapping_file):
                     print(f"Covered by wildcard? {'YES' if covered else 'NO'}\n")
 
 # === Run the analysis ===
-csv_path = 'Accuracy_EX.csv'
-mapping_path = 'SolutionMapping_Entra.csv'
+csv_path = '../../data/output/LLM-Only/Accuracy_EX.csv' # an Accuracy File E5-E8 (Entra experiments)
+mapping_path = '../../data/request_permission_mappings/SolutionMapping_Entra.csv'
 analyze_csv(csv_path, mapping_path)
