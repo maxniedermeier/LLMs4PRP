@@ -60,8 +60,9 @@ def validate_and_export(generated_path, solution_path, roles_json_path, output_p
             writer.writerow([request, proposed_role, correct_permission, is_correct])
 
 # Example usage
-validate_and_export("../../data/output/LLM-Only/Output_EX.csv", "../../data/request_permission_mappings/SolutionMapping_YYY.csv", "../../data/RBAC_structure/ED_YYY.txt", "../../data/output/LLM-Only/RoleAccuracy_EX.csv")
-# 1st parameter: LLM-generated output as input, e.g. Output_E1.csv
+validate_and_export("../../data/output/ExperimentType/Output_EX.csv", "../../data/request_permission_mappings/SolutionMapping_YYY.csv", "../../data/RBAC_structure/ED_YYY.txt", "../../data/output/ExperimentType/RoleAccuracy_EX.csv")
+# 1st parameter: LLM-generated output as input, e.g. Output_E1.csv of Experiment Type LLM-Only or Output_E1H_MIN.csv of Experiment Type Hybrid
 # 2nd parameter: A request-to-permission file -> SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
 # 3rd parameter: JSON-structured ED document -> ED_AzureStorage.txt or ED_Entra.txt
 # 4th parameter: New output file
+
