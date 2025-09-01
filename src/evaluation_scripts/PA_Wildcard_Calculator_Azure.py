@@ -40,6 +40,6 @@ def analyze_csv(csv_file, mapping_file):
                     print(f"Covered by wildcard? {'YES' if covered else 'NO'}\n")
 
 # === Run the analysis ===
-csv_path = 'Accuracy_EX.csv'
-mapping_path = 'SolutionMapping_AzureStorage.csv'
+csv_path = '../../data/output/LLM-Only/Accuracy_EX.csv' # an Accuracy File E1-E4 (Azure experiments)
+mapping_path = '../../data/request_permission_mappings/SolutionMapping_AzureStorage.csv'
 analyze_csv(csv_path, mapping_path)
