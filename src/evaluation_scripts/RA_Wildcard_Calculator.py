@@ -94,8 +94,8 @@ def validate_and_export(generated_path, solution_path, roles_json_path, output_p
 
 # === Run it ===
 validate_and_export(
-    "Output_EX.csv",                     # LLM-generated output as input, e.g. Output_E1.csv
-    "SolutionMapping_YYY.csv",           # prompt-to-request solution mapping, SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
-    "ED_YYY.txt",                        # JSON-structured Enterprise Document, ED_AzureStorage.txt or ED_Entra.txt
-    "RoleAccuracy_Wildcards_EX.csv"      # Output file
+    "../../data/output/ExperimentType/Output_EX.csv",                   # LLM-generated output as input, e.g. Output_E1.csv of Experiment Type LLM-Only or Output_E1H_MIN.csv of Experiment Type Hybrid
+    "../../data/request_permission_mappings/SolutionMapping_YYY.csv",   # prompt-to-request solution mapping, SolutionMapping_AzureStorage.csv or SolutionMapping_Entra.csv
+    "../../data/RBAC_structure/ED_YYY.txt",                             # JSON-structured Enterprise Document, ED_AzureStorage.txt or ED_Entra.txt
+    "../../data/output/ExperimentType/RoleAccuracy_Wildcards_EX.csv"    # Output file
 )
