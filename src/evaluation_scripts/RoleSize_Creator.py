@@ -2,11 +2,11 @@ import json
 import csv
 
 # Load JSON data from a file, ED_AzureStorage.txt or ED_Entra.txt
-with open('ED_YYY.txt', 'r') as f:
+with open('../../data/RBAC_structure/ED_YYY.txt', 'r') as f:
     data = json.load(f)
 
 # Open CSV file for writing
-with open('RoleSizes_YYY.csv', 'w', newline='') as csvfile:
+with open('../../data/RBAC_structure/RoleSizes_YYY.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=';')
     writer.writerow(['role', 'size'])  # Header row
 
