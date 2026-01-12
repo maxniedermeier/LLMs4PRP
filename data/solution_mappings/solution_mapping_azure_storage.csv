@@ -1,0 +1,101 @@
+prompt;permission
+"""I need to list the access keys for the storage accounts.""";Microsoft.ClassicStorage/storageAccounts/listkeys/action
+"""I need full permissions on containers.""";Microsoft.Storage/storageAccounts/blobServices/containers/*
+"""I need to insert, merge, or replace table entities.""";Microsoft.Storage/storageAccounts/tableServices/tables/entities/write
+"""I need to get a virtual network subnet definition.""";Microsoft.Network/virtualNetworks/subnets/read
+"""I need to perform Backup for Protected Item.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/backup/action
+"""I need to get Status of Policy Operation.""";Microsoft.RecoveryServices/Vaults/backupPolicies/operations/read
+"""I need to restore Recovery Points for Protected Items.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/restore/action
+"""I need to query table entities.""";Microsoft.Storage/storageAccounts/tableServices/tables/entities/read
+"""I need to create a registered container.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/write
+"""I need to write File Backup Semantics Privilege.""";Microsoft.Storage/storageAccounts/fileServices/writeFileBackupSemantics/action
+"""I need to return Backup Operation Result for Recovery Services Vault.""";Microsoft.RecoveryServices/Vaults/backupOperationResults/read
+"""I need to peek a message.""";Microsoft.Storage/storageAccounts/queueServices/queues/messages/read
+"""I need to create a Backup Instance.""";Microsoft.DataProtection/backupVaults/backupInstances/write
+"""I need to update an Azure resource of type 'ResourceGuard'.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/write
+"""I need to return all Recovery Points.""";Microsoft.DataProtection/backupVaults/backupInstances/recoveryPoints/read
+"""I need to create and manage items which can be backed up.""";Microsoft.RecoveryServices/Vaults/backupProtectableItems/*
+"""I need to trigger cross region restore operation on given backup instance.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/crossRegionRestore/action
+"""I need to create and update a support ticket.""";Microsoft.Support/*
+"""I need to get the availability statuses for all resources in the specified scope.""";Microsoft.ResourceHealth/availabilityStatuses/read
+"""I need to return the result of deleting a file/folder.""";Microsoft.Storage/storageAccounts/fileServices/fileshares/files/delete
+"""I need to trigger restore on the Backup Instance.""";Microsoft.DataProtection/backupVaults/backupInstances/restore/action
+"""I need to get AccessToken for Cross Region Restore.""";Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/accessToken/action
+"""I need to list all backup Protection Intents.""";Microsoft.RecoveryServices/Vaults/backupProtectionIntents/read
+"""I need to return all Job Objects.""";Microsoft.RecoveryServices/Vaults/backupJobs/read
+"""I need to return Backup Operation Status for Recovery Services Vault.""";Microsoft.RecoveryServices/Vaults/backupOperations/read
+"""I need to check if the requested BackupVault Name is Available.""";Microsoft.DataProtection/locations/checkNameAvailability/action
+"""I need to create and manage registered identities.""";Microsoft.RecoveryServices/Vaults/registeredIdentities/*
+"""I need full permissions on blobs.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/*
+"""I need to delete a blob.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/delete
+"""I need to modify a container's metadata or properties.""";Microsoft.Storage/storageAccounts/blobServices/containers/write
+"""I need to export Jobs.""";Microsoft.RecoveryServices/Vaults/backupJobsExport/action
+"""I need to list soft-deleted Backup Instances in a Backup Vault.""";Microsoft.DataProtection/backupVaults/deletedBackupInstances/read
+"""I need to get list of Backup Vaults in a Resource Group.""";Microsoft.DataProtection/backupVaults/read
+"""I need to return the result of reading blob tags.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/tags/read
+"""I need to return summaries for Protected Items and Protected Servers for a Recovery Services.""";Microsoft.RecoveryServices/Vaults/backupUsageSummaries/read
+"""I need to delete the Backup Policy.""";Microsoft.DataProtection/backupVaults/backupPolicies/delete
+"""I need to read roles and role assignments.""";Microsoft.Authorization/*/read
+"""I need to return all registered containers.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/read
+"""I need to create and manage usage of Recovery Services vault.""";Microsoft.RecoveryServices/Vaults/usages/*
+"""I need to get information about a role definition.""";Microsoft.Authorization/roleDefinitions/read
+"""I need to list the unencrypted credentials related to the order.""";Microsoft.Databox/jobs/listcredentials/action
+"""I need to create and manage extended info related to vault.""";Microsoft.RecoveryServices/Vaults/extendedInformation/*
+"""I need to return a blob or a list of blobs.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/read
+"""I need to manage results of operation on backup management.""";Microsoft.RecoveryServices/Vaults/backupFabrics/operationResults/*
+"""I need to delete one or more messages from a queue.""";Microsoft.Storage/storageAccounts/queueServices/queues/messages/delete
+"""I need to get a network interface definition.""";Microsoft.Network/networkInterfaces/read
+"""I need to update an Azure resource of type 'Backup Vault'.""";Microsoft.DataProtection/backupVaults/write
+"""I need to return recovery points from secondary region for cross region restore enabled Backup Vaults.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchSecondaryRecoveryPoints/action
+"""I need to query tables.""";Microsoft.Storage/storageAccounts/tableServices/tables/read
+"""I need to get the feature of a subscription in a given resource provider.""";Microsoft.Features/providers/features/read
+"""I need to delete tables.""";Microsoft.Storage/storageAccounts/tableServices/tables/delete
+"""I need to resolve the alert.""";Microsoft.RecoveryServices/Vaults/monitoringAlerts/write
+"""I need to get Result of Operation Performed on Protected Items.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/operationResults/read
+"""I need to modify queue metadata or properties.""";Microsoft.Storage/storageAccounts/queueServices/queues/write
+"""I need to create and manage Results of backup management operations.""";Microsoft.RecoveryServices/Vaults/backupOperationResults/*
+"""I need to create, update, or read the diagnostic setting for Analysis Server.""";Microsoft.Insights/diagnosticSettings/*
+"""I need to return the list of available skus.""";Microsoft.Databox/locations/availableSkus/action
+"""I need to retrieve and delete a message.""";Microsoft.Storage/storageAccounts/queueServices/queues/messages/process/action
+"""I need to return Storage Configuration for Recovery Services Vault.""";Microsoft.RecoveryServices/Vaults/backupstorageconfig/read
+"""I need to return all containers belonging to the subscription.""";Microsoft.RecoveryServices/Vaults/backupProtectionContainers/read
+"""I need to return CRR Operation Result for Recovery Services Vault.""";Microsoft.RecoveryServices/locations/backupCrrOperationResults/read
+"""I need to get ResourceGuard default operation request info.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/resourceGuards/{operationName}/read
+"""I need to delete table entities.""";Microsoft.Storage/storageAccounts/tableServices/tables/entities/delete
+"""I need to validate the shipping address and provide alternate addresses if any.""";Microsoft.Databox/locations/validateAddress/action
+"""I need to return status of the operation.""";Microsoft.RecoveryServices/Vaults/backupFabrics/operationResults/read
+"""I need to validate for backup of Backup Instance.""";Microsoft.DataProtection/backupVaults/validateForBackup/action
+"""I need to find Restorable Time Ranges.""";Microsoft.DataProtection/backupVaults/backupInstances/findRestorableTimeRanges/action
+"""I need to perform Backup on the Backup Instance.""";Microsoft.DataProtection/backupVaults/backupInstances/backup/action
+"""I need to provision Instant Item Recovery for Protected Item.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints/provisionInstantItemRecovery/action
+"""I need to return the Account SAS token for the specified storage account.""";Microsoft.Storage/storageAccounts/ListAccountSas/action
+"""I need to regenerate the access keys for the specified storage account.""";Microsoft.Storage/storageAccounts/regeneratekey/action
+"""I need to perform validations for cross region restore operation.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/validateCrossRegionRestore/action
+"""I need to get the properties of a virtual machine.""";Microsoft.Compute/virtualMachines/read
+"""I need to return CRR Operation Status for Recovery Services Vault.""";Microsoft.RecoveryServices/locations/backupCrrOperationsStatus/read
+"""I need to create and manage a deployment.""";Microsoft.Resources/deployments/*
+"""I need to return the list of all Protected Items.""";Microsoft.RecoveryServices/Vaults/backupProtectedItems/read
+"""I need to validate if a feature is supported.""";Microsoft.DataProtection/locations/checkFeatureSupport/action
+"""I need to list object replication policies.""";Microsoft.Storage/storageAccounts/objectReplicationPolicies/read
+"""I need to return the result of adding blob content.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/add/action
+"""I need to get Operation Result of a Patch Operation for a Backup Vault.""";Microsoft.DataProtection/backupVaults/operationResults/read
+"""I need to get list of ResourceGuards in a Subscription.""";Microsoft.DataProtection/subscriptions/providers/resourceGuards/read
+"""I need to get the alerts for the Recovery services vault.""";Microsoft.RecoveryServices/Vaults/monitoringAlerts/read
+"""I need to return the result of deleting a container.""";Microsoft.Storage/storageAccounts/blobServices/containers/delete
+"""I need to return the configurations for the region.""";Microsoft.Databox/locations/regionConfiguration/action
+"""I need to get the resources for the resource group.""";Microsoft.Resources/subscriptions/resourceGroups/resources/read
+"""I need to return object details of the Protected Item.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/read
+"""I need to delete the Backup Instance.""";Microsoft.DataProtection/backupVaults/backupInstances/delete
+"""I need to register a container with Recovery Service.""";Microsoft.RecoveryServices/Vaults/registeredIdentities/write
+"""I need to do all type of validations.""";Microsoft.Databox/locations/validateInputs/action
+"""I need to write to a blob.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/write
+"""I need to do inquiry for workloads within a container.""";Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/inquire/action
+"""I need to delete a queue.""";Microsoft.Storage/storageAccounts/queueServices/queues/delete
+"""I need to get information about a role assignment.""";Microsoft.Authorization/roleAssignments/read
+"""I need to return list of containers.""";Microsoft.Storage/storageAccounts/blobServices/containers/read
+"""I need to return the result of put blob container.""";Microsoft.Storage/storageAccounts/blobServices/containers/write
+"""I need to create a backup Protection Intent.""";Microsoft.RecoveryServices/Vaults/backupFabrics/backupProtectionIntent/write
+"""I need to create and manage backup jobs.""";Microsoft.RecoveryServices/Vaults/backupJobs/*
+"""I need to move the blob from one path to another.""";Microsoft.Storage/storageAccounts/blobServices/containers/blobs/move/action
+"""I need to return the result of processing a message.""";Microsoft.Storage/storageAccounts/queueServices/queues/messages/process/action
+"""I need to list cross region restore jobs of backup instance from secondary region.""";Microsoft.DataProtection/subscriptions/resourceGroups/providers/locations/fetchCrossRegionRestoreJobs/action

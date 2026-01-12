@@ -1,0 +1,101 @@
+prompt;permission
+"""I need to update basic properties on device registration policies.""";microsoft.directory/deviceRegistrationPolicy/basic/update
+"""I need to manage all properties of Conditional Access policies.""";microsoft.directory/conditionalAccessPolicies/allProperties/allTasks
+"""I need to read standard properties of federation configuration for domains.""";microsoft.directory/domains/federationConfiguration/standard/read
+"""I need to deploy and manage programs in Insights app.""";microsoft.insights/programs/allProperties/update
+"""I need to manage admin consent request policies in Microsoft Entra ID.""";microsoft.directory/adminConsentRequestPolicy/allProperties/allTasks
+"""I need to read basic properties of a tenant participating in a multi-tenant organization.""";microsoft.directory/multiTenantOrganization/tenants/standard/read
+"""I need to read owners of policies.""";microsoft.directory/policies/owners/read
+"""I need to grant consent for any permission to any application.""";microsoft.directory/servicePrincipals/managePermissionGrantsForAll.microsoft-company-admin
+"""I need to read all properties of directory roles.""";microsoft.directory/directoryRoles/allProperties/read
+"""I need to read basic properties on an organization.""";microsoft.directory/organization/standard/read
+"""I need to disable service principals.""";microsoft.directory/servicePrincipals/disable
+"""I need to read policies.policyAppliedTo property.""";microsoft.directory/policies/policyAppliedTo/read
+"""I need to read all aspects of Viva Insights.""";microsoft.insights/allEntities/allProperties/read
+"""I need to update custom security attribute values for devices.""";microsoft.directory/devices/customSecurityAttributes/update
+"""I need to create custom rules that define network locations.""";microsoft.directory/namedLocations/create
+"""I need to read members of administrative units.""";microsoft.directory/administrativeUnits/members/read
+"""I need to read analytics reports of content understanding in Microsoft 365 admin center.""";microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read
+"""I need to read all properties of private network connectors.""";microsoft.directory/connectors/allProperties/read
+"""I need to manage aspects of Microsoft Graph Data Connect.""";microsoft.graph.dataConnect/allEntities/allProperties/allTasks
+"""I need to manage access reviews of application role assignments in Microsoft Entra ID.""";microsoft.directory/accessReviews/definitions.applications/allProperties/allTasks
+"""I need to manage all aspects of attribute sets.""";microsoft.directory/attributeSets/allProperties/allTasks
+"""I need to delete certificate authority configurations for Internet of Things (IoT) device.""";microsoft.directory/certificateBasedDeviceAuthConfigurations/delete
+"""I need to update the dynamic membership rule on Security groups, excluding role-assignable groups.""";microsoft.directory/groups.security/dynamicMembershipRule/update
+"""I need to read basic properties on devices.""";microsoft.directory/devices/standard/read
+"""I need to update basic properties of printers in Microsoft Print.""";microsoft.azure.print/printers/basic/update
+"""I need to read all properties (including privileged properties) on all types of applications.""";microsoft.directory/applications/allProperties/read
+"""I need to create Conditional Access policies.""";microsoft.directory/conditionalAccessPolicies/create
+"""I need to manage all aspects of Dynamics 365.""";microsoft.dynamics365/allEntities/allTasks
+"""I need to create all types of applications.""";microsoft.directory/applications/create
+"""I need to read all properties of Conditional Access policies.""";microsoft.directory/conditionalAccessPolicies/allProperties/read
+"""I need to perform the ``enable directory feature`` service action.""";microsoft.directory/serviceAction/enableDirectoryFeature
+"""I need to update Microsoft Entra B2B direct connect settings of the default cross-tenant access policy.""";microsoft.directory/crossTenantAccessPolicy/default/b2bDirectConnect/update
+"""I need to manage all aspects of Azure Information Protection.""";microsoft.azure.informationProtection/allEntities/allTasks
+"""I need to read standard properties of all resources in the Security and Compliance centers.""";microsoft.office365.protectionCenter/allEntities/standard/read
+"""I need to update the extensionAttribute11 to extensionAttribute15 properties on devices.""";microsoft.directory/devices/extensionAttributeSet3/update
+"""I need to update authentication properties on service principals.""";microsoft.directory/servicePrincipals/authentication/update
+"""I need to update basic properties on devices.""";microsoft.directory/devices/basic/update
+"""I need to read service principal role assignments.""";microsoft.directory/servicePrincipals/appRoleAssignedTo/read
+"""I need to disable users.""";microsoft.directory/users/disable
+"""I need to update basic federation configuration for domains.""";microsoft.directory/domains/federationConfiguration/basic/update
+"""I need to read trusted certificate authorities for passwordless authentication.""";microsoft.directory/organization/trustedCAsForPasswordlessAuth/read
+"""I need to read the eligible members of Microsoft Entra roles.""";microsoft.directory/directoryRoles/eligibleMembers/read
+"""I need to read application role assignments of groups.""";microsoft.directory/groups/appRoleAssignments/read
+"""I need to read all properties for Defender for Cloud Apps.""";microsoft.directory/cloudAppSecurity/allProperties/read
+"""I need to manage all aspects of Microsoft 365 Backup.""";microsoft.backup/allEntities/allProperties/allTasks
+"""I need to read and update what's new messages visibility.""";microsoft.office365.userCommunication/allEntities/allTasks
+"""I need to update extension properties on applications.""";microsoft.directory/applications/extensionProperties/update
+"""I need to update Microsoft Entra B2B collaboration settings of cross-tenant access policy for partners.""";microsoft.directory/crossTenantAccessPolicy/partners/b2bCollaboration/update
+"""I need to read the group memberships on service principals.""";microsoft.directory/servicePrincipals/memberOf/read
+"""I need to disable devices in Microsoft Entra ID.""";microsoft.directory/devices/disable
+"""I need to update basic properties on Security groups, excluding role-assignable groups.""";microsoft.directory/groups.security/basic/update
+"""I need to update all application proxy properties.""";microsoft.directory/applications/applicationProxy/update
+"""I need to manage all aspects of Microsoft Edge.""";microsoft.edge/allEntities/allProperties/allTasks
+"""I need to read all properties of printers in Microsoft Print.""";microsoft.azure.print/printers/allProperties/read
+"""I need to read all properties of access reviews of all reviewable resources in Microsoft Entra ID.""";microsoft.directory/accessReviews/definitions/allProperties/read
+"""I need to update applicationsverification property.""";microsoft.directory/applications/verification/update
+"""I need to manage all aspects of Power Apps.""";microsoft.powerApps/allEntities/allTasks
+"""I need to read and configure key sets in Azure Active Directory B2C.""";microsoft.directory/b2cTrustFrameworkKeySet/allProperties/allTasks
+"""I need to read aspects of Microsoft Graph Data Connect.""";microsoft.graph.dataConnect/allEntities/allProperties/read
+"""I need to delete application policies.""";microsoft.directory/applicationPolicies/delete
+"""I need to read provisioning settings associated with the application object.""";microsoft.directory/applications/synchronization/standard/read
+"""I need to update tags of applications.""";microsoft.directory/applications/tag/update
+"""I need to create IoT Device from Internet of Things (IoT) device templates.""";microsoft.directory/deviceTemplates/createDeviceFromTemplate
+"""I need to update basic policies for users.""";microsoft.directory/userCredentialPolicies/basic/update
+"""I need to manage all aspects of Desktop Analytics.""";microsoft.office365.desktopAnalytics/allEntities/allTasks
+"""I need to read all data in the Call Quality Dashboard (CQD).""";microsoft.teams/callQuality/allProperties/read
+"""I need to read reports of attack simulation, responses, and associated training.""";microsoft.office365.protectionCenter/attackSimulator/reports/allProperties/read
+"""I need to read and update all properties for an organization.""";microsoft.directory/organization/allProperties/allTasks
+"""I need to manage all aspects of Office 365 billing.""";microsoft.commerce.billing/allEntities/allProperties/allTasks
+"""I need to read basic properties on OAuth 2.0 permission grants.""";microsoft.directory/oAuth2PermissionGrants/standard/read
+"""I need to delete Security groups, excluding role-assignable groups.""";microsoft.directory/groups.security/delete
+"""I need to delete a tenant participating in a multi-tenant organization.""";microsoft.directory/multiTenantOrganization/tenants/delete
+"""I need to read and configure restore session for Exchange Online in Microsoft 365 Backup.""";microsoft.backup/exchangeRestoreSessions/allProperties/allTasks
+"""I need to update credentials of service principals.""";microsoft.directory/servicePrincipals/credentials/update
+"""I need to create and delete all resources, and read and update standard properties in SharePoint.""";microsoft.office365.sharePoint/allEntities/allTasks
+"""I need to manage all aspects of Microsoft Entra Permissions Management.""";microsoft.permissionsManagement/allEntities/allProperties/allTasks
+"""I need to create and delete Microsoft Entra role templates, and read and update all properties.""";microsoft.directory/directoryRoleTemplates/allProperties/allTasks
+"""I need to update basic settings of cross-tenant access policy.""";microsoft.directory/crossTenantAccessPolicy/basic/update
+"""I need to update crendential related properties on certificate authority configurations for Internet of Things (IoT) device trust and authentication.""";microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update
+"""I need to read standard properties of traffic logs such as DeviceId, DestinationIp and PolicyRuleId.""";microsoft.networkAccess/trafficLogs/standard/read
+"""I need to update owners of service principals.""";microsoft.directory/servicePrincipals/owners/update
+"""I need to perform the ``activate service`` action for a service.""";microsoft.directory/serviceAction/activateService
+"""I need to create policies in Microsoft Entra ID.""";microsoft.directory/policies/create
+"""I need to update Conditional Access authentication context of Microsoft 365 role-based access control (RBAC) resource actions.""";microsoft.directory/resourceNamespaces/resourceActions/authenticationContext/update
+"""I need to permanently delete groups, which can no longer be restored.""";microsoft.directory/deletedItems.groups/delete
+"""I need to delete Conditional Access policies.""";microsoft.directory/conditionalAccessPolicies/delete
+"""I need to read all properties of admin consent request policies in Microsoft Entra ID.""";microsoft.directory/adminConsentRequestPolicy/allProperties/read
+"""I need to read basic properties on subscriptions.""";microsoft.directory/subscribedSkus/standard/read
+"""I need to manage learning sources and all their properties in Learning App.""";microsoft.office365.knowledge/learningSources/allProperties/allTasks
+"""I need to create cross-tenant sync policy for partners.""";microsoft.directory/crossTenantAccessPolicy/partners/identitySynchronization/create
+"""I need to create and delete all resources, and read and update standard properties in Privileged Identity Management.""";microsoft.directory/privilegedIdentityManagement/allProperties/allTasks
+"""I need to approve or reject new organizational messages for delivery in the Microsoft 365 admin center.""";microsoft.office365.organizationalMessages/allEntities/allProperties/update
+"""I need to read all properties of access reviews for membership in Security and Microsoft 365 groups, including role-assignable groups.""";microsoft.directory/accessReviews/definitions.groups/allProperties/read
+"""I need to restore deleted users.""";microsoft.directory/users/restore
+"""I need to update tenant restrictions of cross-tenant access policy for partners.""";microsoft.directory/crossTenantAccessPolicy/partners/tenantRestrictions/update
+"""I need to read all properties on audit logs, excluding custom security attributes audit logs.""";microsoft.directory/auditLogs/allProperties/read
+"""I need to read entities and permissions of SharePoint Embedded containers.""";microsoft.office365.fileStorageContainers/allEntities/allProperties/read
+"""I need to read and configure Azure DevOps.""";microsoft.azure.devOps/allEntities/allTasks
+"""I need to update basic properties of custom rules that define network locations.""";microsoft.directory/namedLocations/basic/update
+"""I need to delete custom rules that define network locations.""";microsoft.directory/namedLocations/delete
