@@ -161,4 +161,4 @@ If you have any questions about the publication or the shown material, please co
 
 ## Citation 
 
-Paper is not yet published.
+See: https://link.springer.com/chapter/10.1007/978-3-032-15140-7_17
